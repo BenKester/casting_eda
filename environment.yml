@@ -1,0 +1,19 @@
+# create with 
+# conda env create -f environment.yml
+name: casting_eda
+
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+  - seaborn
+  - requests
+  - pip
+  - pyyaml
+
+  # image recognition stuff
+  - pytesseract
+  - tesseract
+  - tesserocr
+  - python=3.9 # 3.10 doesn't work right now, bug with conda maybe?
+  - pyautogui

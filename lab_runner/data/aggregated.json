@@ -1,0 +1,4935 @@
+{
+    "40% increased Ball Lightning Damage": {
+        "gear": "helmet",
+        "skill": "Ball Lightning",
+        "ninja_chaos": 6.04,
+        "ninja_listing_count": 477,
+        "ninja_rank": 271
+    },
+    "40% increased Frost Blades Damage": {
+        "gear": "helmet",
+        "skill": "Frost Blades",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 572,
+        "ninja_rank": 60
+    },
+    "30% increased Frost Blades Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Frost Blades",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 248,
+        "ninja_rank": 371
+    },
+    "Summon Raging Spirit has 30% increased Duration": {
+        "gear": "helmet",
+        "skill": "Summon Raging Spirit",
+        "ninja_chaos": 4.87,
+        "ninja_listing_count": 264,
+        "ninja_rank": 721
+    },
+    "Summon Raging Spirit has 18% chance to summon an extra Minion": {
+        "gear": "helmet",
+        "skill": "Summon Raging Spirit",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 296,
+        "ninja_rank": 377
+    },
+    "30% chance for Discharge to deal Damage without removing Charges": {
+        "gear": "helmet",
+        "skill": "Discharge",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 345,
+        "ninja_rank": 80
+    },
+    "Discharge has +5 to Radius": {
+        "gear": "helmet",
+        "skill": "Discharge",
+        "ninja_chaos": 6.88,
+        "ninja_listing_count": 360,
+        "ninja_rank": 239
+    },
+    "Anger has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Anger",
+        "ninja_chaos": 6.08,
+        "ninja_listing_count": 616,
+        "ninja_rank": 269
+    },
+    "Ancestral Protector Totem deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Ancestral Protector",
+        "ninja_chaos": 9.7,
+        "ninja_listing_count": 303,
+        "ninja_rank": 136
+    },
+    "40% increased Ancestral Warchief Totem Damage": {
+        "gear": "helmet",
+        "skill": "Ancestral Warchief",
+        "ninja_chaos": 5.21,
+        "ninja_listing_count": 361,
+        "ninja_rank": 310
+    },
+    "18% increased Ancestral Protector Totem Placement Speed": {
+        "gear": "helmet",
+        "skill": "Ancestral Protector",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 120,
+        "ninja_rank": 360
+    },
+    "+36% to Ancestral Protector Totem Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Ancestral Protector",
+        "ninja_chaos": 4.75,
+        "ninja_listing_count": 109,
+        "ninja_rank": 741
+    },
+    "Ancestral Protector Totem grants 18% increased Attack Speed while Active": {
+        "gear": "helmet",
+        "skill": "Ancestral Protector",
+        "ninja_chaos": 16.3,
+        "ninja_listing_count": 512,
+        "ninja_rank": 23
+    },
+    "Animated Guardians deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Animate Guardian",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 308,
+        "ninja_rank": 428
+    },
+    "Animated Weapons deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Animate Weapon",
+        "ninja_chaos": 9.18,
+        "ninja_listing_count": 365,
+        "ninja_rank": 153
+    },
+    "40% increased Arc Damage": {
+        "gear": "helmet",
+        "skill": "Arc",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 383,
+        "ninja_rank": 70
+    },
+    "40% increased Creeping Frost Damage": {
+        "gear": "helmet",
+        "skill": "Creeping Frost",
+        "ninja_chaos": 9.29,
+        "ninja_listing_count": 246,
+        "ninja_rank": 149
+    },
+    "Armageddon Brand deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Armageddon Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 391,
+        "ninja_rank": 513
+    },
+    "Bane deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Bane",
+        "ninja_chaos": 9.31,
+        "ninja_listing_count": 525,
+        "ninja_rank": 147
+    },
+    "40% increased Barrage Damage": {
+        "gear": "helmet",
+        "skill": "Barrage",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 487,
+        "ninja_rank": 334
+    },
+    "40% increased Bear Trap Damage": {
+        "gear": "helmet",
+        "skill": "Bear Trap",
+        "ninja_chaos": 7.63,
+        "ninja_listing_count": 151,
+        "ninja_rank": 202
+    },
+    "40% increased Blade Trap Damage": {
+        "gear": "helmet",
+        "skill": "Blade Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 247,
+        "ninja_rank": 662
+    },
+    "40% increased Blade Vortex Spell Damage": {
+        "gear": "helmet",
+        "skill": "Blade Vortex",
+        "ninja_chaos": 9.87,
+        "ninja_listing_count": 418,
+        "ninja_rank": 129
+    },
+    "40% increased Bladefall Damage": {
+        "gear": "helmet",
+        "skill": "Bladefall",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 284,
+        "ninja_rank": 357
+    },
+    "Blast Rain deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Blast Rain",
+        "ninja_chaos": 5.16,
+        "ninja_listing_count": 307,
+        "ninja_rank": 316
+    },
+    "Blazing Salvo deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Blazing Salvo",
+        "ninja_chaos": 5.37,
+        "ninja_listing_count": 243,
+        "ninja_rank": 303
+    },
+    "40% increased Blight Damage": {
+        "gear": "helmet",
+        "skill": "Blight",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 395,
+        "ninja_rank": 361
+    },
+    "Blink Arrow and Blink Arrow Clones have 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Blink Arrow",
+        "ninja_chaos": 5.02,
+        "ninja_listing_count": 176,
+        "ninja_rank": 324
+    },
+    "Reap deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Reap",
+        "ninja_chaos": 6.91,
+        "ninja_listing_count": 504,
+        "ninja_rank": 237
+    },
+    "40% increased Burning Arrow Damage": {
+        "gear": "helmet",
+        "skill": "Burning Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 345,
+        "ninja_rank": 423
+    },
+    "40% increased Caustic Arrow Damage": {
+        "gear": "helmet",
+        "skill": "Caustic Arrow",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 511,
+        "ninja_rank": 52
+    },
+    "40% increased Blade Flurry Damage": {
+        "gear": "helmet",
+        "skill": "Blade Flurry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 437,
+        "ninja_rank": 335
+    },
+    "40% increased Charged Dash Damage": {
+        "gear": "helmet",
+        "skill": "Charged Dash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 96,
+        "ninja_rank": 420
+    },
+    "40% increased Cleave Damage": {
+        "gear": "helmet",
+        "skill": "Cleave",
+        "ninja_chaos": 7.04,
+        "ninja_listing_count": 216,
+        "ninja_rank": 227
+    },
+    "40% increased Cold Snap Damage": {
+        "gear": "helmet",
+        "skill": "Cold Snap",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 311,
+        "ninja_rank": 68
+    },
+    "Consecrated Path deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Consecrated Path",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 283,
+        "ninja_rank": 499
+    },
+    "40% increased Contagion Damage": {
+        "gear": "helmet",
+        "skill": "Contagion",
+        "ninja_chaos": 5.15,
+        "ninja_listing_count": 357,
+        "ninja_rank": 317
+    },
+    "Corrupting Fever deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Corrupting Fever",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 987,
+        "ninja_rank": 105
+    },
+    "Converted Enemies have 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Conversion Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 176,
+        "ninja_rank": 464
+    },
+    "Crackling Lance deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Crackling Lance",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 260,
+        "ninja_rank": 635
+    },
+    "40% increased Cyclone Damage": {
+        "gear": "helmet",
+        "skill": "Cyclone",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 903,
+        "ninja_rank": 50
+    },
+    "40% increased Detonate Dead Damage": {
+        "gear": "helmet",
+        "skill": "Detonate Dead",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 541,
+        "ninja_rank": 64
+    },
+    "40% increased Discharge Damage": {
+        "gear": "helmet",
+        "skill": "Discharge",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 344,
+        "ninja_rank": 332
+    },
+    "Divine Ire deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Divine Ire",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 329,
+        "ninja_rank": 516
+    },
+    "40% increased Lacerate Damage": {
+        "gear": "helmet",
+        "skill": "Lacerate",
+        "ninja_chaos": 9.23,
+        "ninja_listing_count": 337,
+        "ninja_rank": 151
+    },
+    "40% increased Double Strike Damage": {
+        "gear": "helmet",
+        "skill": "Double Strike",
+        "ninja_chaos": 5.98,
+        "ninja_listing_count": 204,
+        "ninja_rank": 276
+    },
+    "40% increased Dual Strike Damage": {
+        "gear": "helmet",
+        "skill": "Dual Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 234,
+        "ninja_rank": 331
+    },
+    "40% increased Earthquake Damage": {
+        "gear": "helmet",
+        "skill": "Earthquake",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 349,
+        "ninja_rank": 382
+    },
+    "Elemental Hit deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Elemental Hit",
+        "ninja_chaos": 5.26,
+        "ninja_listing_count": 714,
+        "ninja_rank": 308
+    },
+    "40% increased Essence Drain Damage": {
+        "gear": "helmet",
+        "skill": "Essence Drain",
+        "ninja_chaos": 6.16,
+        "ninja_listing_count": 593,
+        "ninja_rank": 264
+    },
+    "40% increased Ethereal Knives Damage": {
+        "gear": "helmet",
+        "skill": "Ethereal Knives",
+        "ninja_chaos": 5.57,
+        "ninja_listing_count": 237,
+        "ninja_rank": 291
+    },
+    "Explosive Arrow deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Explosive Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 291,
+        "ninja_rank": 561
+    },
+    "40% increased Explosive Concoction Damage": {
+        "gear": "helmet",
+        "skill": "Explosive Concoction",
+        "ninja_chaos": 4.76,
+        "ninja_listing_count": 525,
+        "ninja_rank": 739
+    },
+    "Exsanguinate deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Exsanguinate",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 821,
+        "ninja_rank": 107
+    },
+    "40% increased Eye of Winter Damage": {
+        "gear": "helmet",
+        "skill": "Eye of Winter",
+        "ninja_chaos": 8.49,
+        "ninja_listing_count": 641,
+        "ninja_rank": 183
+    },
+    "40% increased Firestorm Damage": {
+        "gear": "helmet",
+        "skill": "Firestorm",
+        "ninja_chaos": 4.91,
+        "ninja_listing_count": 217,
+        "ninja_rank": 715
+    },
+    "40% increased Fire Trap Damage": {
+        "gear": "helmet",
+        "skill": "Fire Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 183,
+        "ninja_rank": 336
+    },
+    "40% increased Fireball Damage": {
+        "gear": "helmet",
+        "skill": "Fireball",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 285,
+        "ninja_rank": 59
+    },
+    "40% increased Scorching Ray Damage": {
+        "gear": "helmet",
+        "skill": "Scorching Ray",
+        "ninja_chaos": 6.11,
+        "ninja_listing_count": 289,
+        "ninja_rank": 267
+    },
+    "40% increased Flame Dash Damage": {
+        "gear": "helmet",
+        "skill": "Flame Dash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 101,
+        "ninja_rank": 414
+    },
+    "40% increased Flame Surge Damage": {
+        "gear": "helmet",
+        "skill": "Flame Surge",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 199,
+        "ninja_rank": 378
+    },
+    "Flamethrower Trap deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Flamethrower Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 169,
+        "ninja_rank": 495
+    },
+    "Holy Flame Totem deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Holy Flame Totem",
+        "ninja_chaos": 3.94,
+        "ninja_listing_count": 156,
+        "ninja_rank": 903
+    },
+    "40% increased Flameblast Damage": {
+        "gear": "helmet",
+        "skill": "Flameblast",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 203,
+        "ninja_rank": 373
+    },
+    "Flame Wall deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Flame Wall",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 221,
+        "ninja_rank": 889
+    },
+    "40% increased Flicker Strike Damage": {
+        "gear": "helmet",
+        "skill": "Flicker Strike",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 841,
+        "ninja_rank": 58
+    },
+    "40% increased Forbidden Rite Damage": {
+        "gear": "helmet",
+        "skill": "Forbidden Rite",
+        "ninja_chaos": 6.69,
+        "ninja_listing_count": 613,
+        "ninja_rank": 246
+    },
+    "40% increased Freezing Pulse Damage": {
+        "gear": "helmet",
+        "skill": "Freezing Pulse",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 438,
+        "ninja_rank": 66
+    },
+    "40% increased Frenzy Damage": {
+        "gear": "helmet",
+        "skill": "Frenzy",
+        "ninja_chaos": 7.48,
+        "ninja_listing_count": 344,
+        "ninja_rank": 208
+    },
+    "40% increased Frostbolt Damage": {
+        "gear": "helmet",
+        "skill": "Frostbolt",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 334,
+        "ninja_rank": 339
+    },
+    "40% increased Frost Bomb Damage": {
+        "gear": "helmet",
+        "skill": "Frost Bomb",
+        "ninja_chaos": 9.72,
+        "ninja_listing_count": 200,
+        "ninja_rank": 133
+    },
+    "40% increased Glacial Cascade Damage": {
+        "gear": "helmet",
+        "skill": "Glacial Cascade",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 358,
+        "ninja_rank": 407
+    },
+    "40% increased Glacial Hammer Damage": {
+        "gear": "helmet",
+        "skill": "Glacial Hammer",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 209,
+        "ninja_rank": 333
+    },
+    "40% increased Ground Slam Damage": {
+        "gear": "helmet",
+        "skill": "Ground Slam",
+        "ninja_chaos": 8.13,
+        "ninja_listing_count": 263,
+        "ninja_rank": 189
+    },
+    "40% increased Heavy Strike Damage": {
+        "gear": "helmet",
+        "skill": "Heavy Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 198,
+        "ninja_rank": 429
+    },
+    "40% increased Herald of Ash Damage": {
+        "gear": "helmet",
+        "skill": "Herald of Ash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 368,
+        "ninja_rank": 349
+    },
+    "40% increased Herald of Ice Damage": {
+        "gear": "helmet",
+        "skill": "Herald of Ice",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 486,
+        "ninja_rank": 49
+    },
+    "40% increased Herald of Thunder Damage": {
+        "gear": "helmet",
+        "skill": "Herald of Thunder",
+        "ninja_chaos": 7.0,
+        "ninja_listing_count": 612,
+        "ninja_rank": 229
+    },
+    "Hexblast deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Hexblast",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 291,
+        "ninja_rank": 639
+    },
+    "Summoned Holy Relics deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Holy Relic",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 272,
+        "ninja_rank": 505
+    },
+    "40% increased Ice Crash Damage": {
+        "gear": "helmet",
+        "skill": "Ice Crash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 366,
+        "ninja_rank": 341
+    },
+    "40% increased Ice Nova Damage": {
+        "gear": "helmet",
+        "skill": "Ice Nova",
+        "ninja_chaos": 14.18,
+        "ninja_listing_count": 666,
+        "ninja_rank": 38
+    },
+    "40% increased Ice Shot Damage": {
+        "gear": "helmet",
+        "skill": "Ice Shot",
+        "ninja_chaos": 9.0,
+        "ninja_listing_count": 620,
+        "ninja_rank": 164
+    },
+    "Siphoning Trap deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Siphoning Trap",
+        "ninja_chaos": 2.98,
+        "ninja_listing_count": 110,
+        "ninja_rank": 1165
+    },
+    "40% increased Ice Trap Damage": {
+        "gear": "helmet",
+        "skill": "Ice Trap",
+        "ninja_chaos": 7.19,
+        "ninja_listing_count": 381,
+        "ninja_rank": 220
+    },
+    "40% increased Incinerate Damage": {
+        "gear": "helmet",
+        "skill": "Incinerate",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 225,
+        "ninja_rank": 846
+    },
+    "40% increased Infernal Blow Damage": {
+        "gear": "helmet",
+        "skill": "Infernal Blow",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 189,
+        "ninja_rank": 848
+    },
+    "40% increased Kinetic Blast Damage": {
+        "gear": "helmet",
+        "skill": "Kinetic Blast",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 540,
+        "ninja_rank": 362
+    },
+    "Lancing Steel deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Lancing Steel",
+        "ninja_chaos": 5.65,
+        "ninja_listing_count": 400,
+        "ninja_rank": 287
+    },
+    "40% increased Leap Slam Damage": {
+        "gear": "helmet",
+        "skill": "Leap Slam",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 136,
+        "ninja_rank": 427
+    },
+    "40% increased Lightning Arrow Damage": {
+        "gear": "helmet",
+        "skill": "Lightning Arrow",
+        "ninja_chaos": 14.83,
+        "ninja_listing_count": 657,
+        "ninja_rank": 33
+    },
+    "40% increased Lightning Strike Damage": {
+        "gear": "helmet",
+        "skill": "Lightning Strike",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 772,
+        "ninja_rank": 65
+    },
+    "40% increased Lightning Tendrils Damage": {
+        "gear": "helmet",
+        "skill": "Lightning Tendrils",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 183,
+        "ninja_rank": 418
+    },
+    "Lightning Spire Trap deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Lightning Spire Trap",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 144,
+        "ninja_rank": 72
+    },
+    "40% increased Lightning Trap Damage": {
+        "gear": "helmet",
+        "skill": "Lightning Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 254,
+        "ninja_rank": 424
+    },
+    "40% increased Lightning Warp Damage": {
+        "gear": "helmet",
+        "skill": "Lightning Warp",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 110,
+        "ninja_rank": 400
+    },
+    "40% increased Rolling Magma Damage": {
+        "gear": "helmet",
+        "skill": "Rolling Magma",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 181,
+        "ninja_rank": 652
+    },
+    "40% increased Manabond Damage": {
+        "gear": "helmet",
+        "skill": "Manabond",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 220,
+        "ninja_rank": 669
+    },
+    "Mirror Arrow and Mirror Arrow Clones deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Mirror Arrow",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 216,
+        "ninja_rank": 1021
+    },
+    "Molten Shell has 40% increased Skill Effect Duration": {
+        "gear": "helmet",
+        "skill": "Molten Shell",
+        "ninja_chaos": 5.16,
+        "ninja_listing_count": 329,
+        "ninja_rank": 315
+    },
+    "150% increased Molten Shell Buff Effect": {
+        "gear": "helmet",
+        "skill": "Molten Shell",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 466,
+        "ninja_rank": 398
+    },
+    "40% increased Molten Strike Damage": {
+        "gear": "helmet",
+        "skill": "Molten Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 321,
+        "ninja_rank": 326
+    },
+    "40% increased Orb of Storms Damage": {
+        "gear": "helmet",
+        "skill": "Orb of Storms",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 201,
+        "ninja_rank": 847
+    },
+    "Orb of Storms has 30% increased Cast Speed": {
+        "gear": "helmet",
+        "skill": "Orb of Storms",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 161,
+        "ninja_rank": 493
+    },
+    "Seismic Trap deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Seismic Trap",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 714,
+        "ninja_rank": 75
+    },
+    "40% increased Poisonous Concoction Damage": {
+        "gear": "helmet",
+        "skill": "Poisonous Concoction",
+        "ninja_chaos": 11.08,
+        "ninja_listing_count": 888,
+        "ninja_rank": 43
+    },
+    "40% increased Power Siphon Damage": {
+        "gear": "helmet",
+        "skill": "Power Siphon",
+        "ninja_chaos": 9.06,
+        "ninja_listing_count": 361,
+        "ninja_rank": 160
+    },
+    "40% increased Puncture Damage": {
+        "gear": "helmet",
+        "skill": "Puncture",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 263,
+        "ninja_rank": 416
+    },
+    "Purifying Flame deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Purifying Flame",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 217,
+        "ninja_rank": 518
+    },
+    "40% increased Rain of Arrows Damage": {
+        "gear": "helmet",
+        "skill": "Rain of Arrows",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 382,
+        "ninja_rank": 392
+    },
+    "Spectres have 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Raise Spectre",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 1088,
+        "ninja_rank": 47
+    },
+    "Raised Zombies deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Raise Zombie",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 692,
+        "ninja_rank": 85
+    },
+    "40% increased Reave Damage": {
+        "gear": "helmet",
+        "skill": "Reave",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 278,
+        "ninja_rank": 327
+    },
+    "40% increased Reckoning Damage": {
+        "gear": "helmet",
+        "skill": "Reckoning",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 183,
+        "ninja_rank": 408
+    },
+    "40% increased Righteous Fire Damage": {
+        "gear": "helmet",
+        "skill": "Righteous Fire",
+        "ninja_chaos": 19.3,
+        "ninja_listing_count": 771,
+        "ninja_rank": 19
+    },
+    "40% increased Riposte Damage": {
+        "gear": "helmet",
+        "skill": "Riposte",
+        "ninja_chaos": 5.64,
+        "ninja_listing_count": 133,
+        "ninja_rank": 288
+    },
+    "Scourge Arrow deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Scourge Arrow",
+        "ninja_chaos": 4.68,
+        "ninja_listing_count": 494,
+        "ninja_rank": 754
+    },
+    "40% increased Searing Bond Damage": {
+        "gear": "helmet",
+        "skill": "Searing Bond",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 166,
+        "ninja_rank": 364
+    },
+    "40% increased Shield Charge Damage": {
+        "gear": "helmet",
+        "skill": "Shield Charge",
+        "ninja_chaos": 7.0,
+        "ninja_listing_count": 259,
+        "ninja_rank": 231
+    },
+    "40% increased Shock Nova Damage": {
+        "gear": "helmet",
+        "skill": "Shock Nova",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 260,
+        "ninja_rank": 368
+    },
+    "Explosive Trap deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Explosive Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 279,
+        "ninja_rank": 494
+    },
+    "Sunder has 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Sunder",
+        "ninja_chaos": 4.19,
+        "ninja_listing_count": 218,
+        "ninja_rank": 814
+    },
+    "Shattering Steel deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Shattering Steel",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 408,
+        "ninja_rank": 514
+    },
+    "40% increased Shockwave Totem Damage": {
+        "gear": "helmet",
+        "skill": "Shockwave Totem",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 204,
+        "ninja_rank": 1022
+    },
+    "40% increased Galvanic Arrow Damage": {
+        "gear": "helmet",
+        "skill": "Galvanic Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 250,
+        "ninja_rank": 562
+    },
+    "Siege Ballista deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Siege Ballista",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 328,
+        "ninja_rank": 565
+    },
+    "40% increased Dark Pact Damage": {
+        "gear": "helmet",
+        "skill": "Dark Pact",
+        "ninja_chaos": 8.52,
+        "ninja_listing_count": 432,
+        "ninja_rank": 180
+    },
+    "12% increased Dark Pact Cast Speed": {
+        "gear": "helmet",
+        "skill": "Dark Pact",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 266,
+        "ninja_rank": 347
+    },
+    "24% increased Dark Pact Area of Effect": {
+        "gear": "helmet",
+        "skill": "Dark Pact",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 245,
+        "ninja_rank": 595
+    },
+    "Smite deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Smite",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 342,
+        "ninja_rank": 501
+    },
+    "Soulrend deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Soulrend",
+        "ninja_chaos": 6.59,
+        "ninja_listing_count": 298,
+        "ninja_rank": 252
+    },
+    "40% increased Spark Damage": {
+        "gear": "helmet",
+        "skill": "Spark",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 430,
+        "ninja_rank": 51
+    },
+    "40% increased Spectral Helix Damage": {
+        "gear": "helmet",
+        "skill": "Spectral Helix",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 588,
+        "ninja_rank": 674
+    },
+    "40% increased Spectral Shield Throw Damage": {
+        "gear": "helmet",
+        "skill": "Spectral Shield Throw",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 482,
+        "ninja_rank": 374
+    },
+    "40% increased Spectral Throw Damage": {
+        "gear": "helmet",
+        "skill": "Spectral Throw",
+        "ninja_chaos": 9.48,
+        "ninja_listing_count": 325,
+        "ninja_rank": 142
+    },
+    "40% increased Split Arrow Damage": {
+        "gear": "helmet",
+        "skill": "Split Arrow",
+        "ninja_chaos": 6.0,
+        "ninja_listing_count": 321,
+        "ninja_rank": 273
+    },
+    "Splitting Steel deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Splitting Steel",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 411,
+        "ninja_rank": 642
+    },
+    "40% increased Static Strike Damage": {
+        "gear": "helmet",
+        "skill": "Static Strike",
+        "ninja_chaos": 4.68,
+        "ninja_listing_count": 184,
+        "ninja_rank": 752
+    },
+    "Storm Brand deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Storm Brand",
+        "ninja_chaos": 7.57,
+        "ninja_listing_count": 566,
+        "ninja_rank": 204
+    },
+    "40% increased Storm Burst Damage": {
+        "gear": "helmet",
+        "skill": "Storm Burst",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 242,
+        "ninja_rank": 439
+    },
+    "40% increased Storm Call Damage": {
+        "gear": "helmet",
+        "skill": "Storm Call",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 228,
+        "ninja_rank": 353
+    },
+    "Chaos Golems deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Chaos Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 285,
+        "ninja_rank": 437
+    },
+    "Flame Golems have 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Flame Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 237,
+        "ninja_rank": 350
+    },
+    "Ice Golems deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Ice Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 229,
+        "ninja_rank": 450
+    },
+    "Lightning Golems deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Lightning Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 204,
+        "ninja_rank": 440
+    },
+    "Summoned Raging Spirits deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Raging Spirit",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 433,
+        "ninja_rank": 528
+    },
+    "Skeletons deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Skeletons",
+        "ninja_chaos": 20.0,
+        "ninja_listing_count": 1078,
+        "ninja_rank": 14
+    },
+    "Stone Golems deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Stone Golem",
+        "ninja_chaos": 9.14,
+        "ninja_listing_count": 586,
+        "ninja_rank": 157
+    },
+    "40% increased Sweep Damage": {
+        "gear": "helmet",
+        "skill": "Sweep",
+        "ninja_chaos": 5.43,
+        "ninja_listing_count": 253,
+        "ninja_rank": 298
+    },
+    "Tectonic Slam deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Tectonic Slam",
+        "ninja_chaos": 6.03,
+        "ninja_listing_count": 303,
+        "ninja_rank": 272
+    },
+    "40% increased Tempest Shield Damage": {
+        "gear": "helmet",
+        "skill": "Tempest Shield",
+        "ninja_chaos": 3.56,
+        "ninja_listing_count": 168,
+        "ninja_rank": 954
+    },
+    "40% increased Tornado Damage": {
+        "gear": "helmet",
+        "skill": "Tornado",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 391,
+        "ninja_rank": 700
+    },
+    "40% increased Tornado Shot Damage": {
+        "gear": "helmet",
+        "skill": "Tornado",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 840,
+        "ninja_rank": 57
+    },
+    "Toxic Rain deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Toxic Rain",
+        "ninja_chaos": 11.17,
+        "ninja_listing_count": 1222,
+        "ninja_rank": 42
+    },
+    "40% increased Vengeance Damage": {
+        "gear": "helmet",
+        "skill": "Vengeance",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 191,
+        "ninja_rank": 342
+    },
+    "40% increased Vigilant Strike Damage": {
+        "gear": "helmet",
+        "skill": "Vigilant Strike",
+        "ninja_chaos": 6.66,
+        "ninja_listing_count": 180,
+        "ninja_rank": 247
+    },
+    "40% increased Viper Strike Damage": {
+        "gear": "helmet",
+        "skill": "Viper Strike",
+        "ninja_chaos": 3.24,
+        "ninja_listing_count": 233,
+        "ninja_rank": 987
+    },
+    "40% increased Voltaxic Burst Damage": {
+        "gear": "helmet",
+        "skill": "Voltaxic Burst",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 238,
+        "ninja_rank": 891
+    },
+    "40% increased Vortex Damage": {
+        "gear": "helmet",
+        "skill": "Vortex",
+        "ninja_chaos": 5.25,
+        "ninja_listing_count": 477,
+        "ninja_rank": 309
+    },
+    "Hydrosphere deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Hydrosphere",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 293,
+        "ninja_rank": 653
+    },
+    "Wave of Conviction deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Wave of Conviction",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 286,
+        "ninja_rank": 520
+    },
+    "40% increased Whirling Blades Damage": {
+        "gear": "helmet",
+        "skill": "Whirling Blades",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 173,
+        "ninja_rank": 63
+    },
+    "40% increased Wild Strike Damage": {
+        "gear": "helmet",
+        "skill": "Wild Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 290,
+        "ninja_rank": 337
+    },
+    "Winter Orb deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Winter Orb",
+        "ninja_chaos": 6.61,
+        "ninja_listing_count": 474,
+        "ninja_rank": 251
+    },
+    "30% increased Absolution Duration": {
+        "gear": "helmet",
+        "skill": "Absolution",
+        "ninja_chaos": 5.05,
+        "ninja_listing_count": 213,
+        "ninja_rank": 322
+    },
+    "12% increased Absolution Cast Speed": {
+        "gear": "helmet",
+        "skill": "Absolution",
+        "ninja_chaos": 9.76,
+        "ninja_listing_count": 215,
+        "ninja_rank": 131
+    },
+    "Summoned Sentinels of Absolution have 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Absolution",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 272,
+        "ninja_rank": 112
+    },
+    "+36% to Animated Guardian Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Animate Guardian",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 199,
+        "ninja_rank": 849
+    },
+    "30% increased Animate Weapon Duration": {
+        "gear": "helmet",
+        "skill": "Animate Weapon",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 202,
+        "ninja_rank": 850
+    },
+    "24% chance to create an additional Animate Weapon copy": {
+        "gear": "helmet",
+        "skill": "Animate Weapon",
+        "ninja_chaos": 7.0,
+        "ninja_listing_count": 287,
+        "ninja_rank": 232
+    },
+    "Arc Chains an additional time": {
+        "gear": "helmet",
+        "skill": "Arc",
+        "ninja_chaos": 14.21,
+        "ninja_listing_count": 607,
+        "ninja_rank": 37
+    },
+    "Arc has +30% chance to Shock": {
+        "gear": "helmet",
+        "skill": "Arc",
+        "ninja_chaos": 4.99,
+        "ninja_listing_count": 152,
+        "ninja_rank": 704
+    },
+    "Arc deals 12% increased Damage for each time it has Chained": {
+        "gear": "helmet",
+        "skill": "Arc",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 367,
+        "ninja_rank": 74
+    },
+    "Arcane Cloak Spends an additional 15% of current Mana": {
+        "gear": "helmet",
+        "skill": "Arcane Cloak",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 401,
+        "ninja_rank": 606
+    },
+    "Arcane Cloak grants Life Regeneration equal to 15% of Mana Spent per Second": {
+        "gear": "helmet",
+        "skill": "Arcane Cloak",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 289,
+        "ninja_rank": 602
+    },
+    "Bane has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Bane",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 361,
+        "ninja_rank": 588
+    },
+    "15% increased Effect of Curses applied by Bane": {
+        "gear": "helmet",
+        "skill": "Bane",
+        "ninja_chaos": 7.65,
+        "ninja_listing_count": 409,
+        "ninja_rank": 201
+    },
+    "Armageddon Brand has 12% increased Activation Frequency": {
+        "gear": "helmet",
+        "skill": "Armageddon Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 317,
+        "ninja_rank": 515
+    },
+    "Armageddon Brand Damage Penetrates 12% of Branded Enemy's Fire Resistance": {
+        "gear": "helmet",
+        "skill": "Armageddon Brand",
+        "ninja_chaos": 9.71,
+        "ninja_listing_count": 505,
+        "ninja_rank": 135
+    },
+    "24% increased Ancestral Warchief Totem Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ancestral Warchief Totem",
+        "ninja_chaos": 3.72,
+        "ninja_listing_count": 211,
+        "ninja_rank": 931
+    },
+    "Ancestral Warchief Totem grants 30% increased Melee Damage while Active": {
+        "gear": "helmet",
+        "skill": "Ancestral Warchief Totem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 370,
+        "ninja_rank": 366
+    },
+    "Attacks Exerted by Ancestral Cry deal 50% increased Damage": {
+        "gear": "helmet",
+        "skill": "Ancestral Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 271,
+        "ninja_rank": 680
+    },
+    "Ancestral Cry has a minimum of 10 Power": {
+        "gear": "helmet",
+        "skill": "Ancestral Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 223,
+        "ninja_rank": 612
+    },
+    "36% increased Arctic Armour Buff Effect": {
+        "gear": "helmet",
+        "skill": "Arctic Armour",
+        "ninja_chaos": 3.34,
+        "ninja_listing_count": 173,
+        "ninja_rank": 975
+    },
+    "Arctic Armour has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Arctic Armour",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 359,
+        "ninja_rank": 702
+    },
+    "36% increased Creeping Frost Duration": {
+        "gear": "helmet",
+        "skill": "Creeping Frost",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 136,
+        "ninja_rank": 96
+    },
+    "24% increased Creeping Frost Area of Effect": {
+        "gear": "helmet",
+        "skill": "Creeping Frost",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 135,
+        "ninja_rank": 607
+    },
+    "Creeping Frost's Chilling Area has 38% increased Movement Speed": {
+        "gear": "helmet",
+        "skill": "Creeping Frost",
+        "ninja_chaos": 4.65,
+        "ninja_listing_count": 143,
+        "ninja_rank": 760
+    },
+    "30% increased Assassin's Mark Curse Effect": {
+        "gear": "helmet",
+        "skill": "Assassin's Mark",
+        "ninja_chaos": 7.0,
+        "ninja_listing_count": 555,
+        "ninja_rank": 230
+    },
+    "45% increased Assassin's Mark Duration": {
+        "gear": "helmet",
+        "skill": "Assassin's Mark",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 234,
+        "ninja_rank": 369
+    },
+    "24% increased Ball Lightning Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ball Lightning",
+        "ninja_chaos": 8.61,
+        "ninja_listing_count": 267,
+        "ninja_rank": 179
+    },
+    "Ball Lightning fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Ball Lightning",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 749,
+        "ninja_rank": 73
+    },
+    "15% increased Barrage Attack Speed": {
+        "gear": "helmet",
+        "skill": "Barrage",
+        "ninja_chaos": 7.3,
+        "ninja_listing_count": 400,
+        "ninja_rank": 215
+    },
+    "Barrage fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Barrage",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 885,
+        "ninja_rank": 46
+    },
+    "15% increased Battlemage's Cry Buff Effect": {
+        "gear": "helmet",
+        "skill": "Battlemage's Cry",
+        "ninja_chaos": 15.0,
+        "ninja_listing_count": 365,
+        "ninja_rank": 28
+    },
+    "Battlemage's Cry Exerts 1 additional Attack": {
+        "gear": "helmet",
+        "skill": "Battlemage's Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 317,
+        "ninja_rank": 660
+    },
+    "Bear Trap has 15% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Bear Trap",
+        "ninja_chaos": 6.13,
+        "ninja_listing_count": 107,
+        "ninja_rank": 265
+    },
+    "Enemies affected by Bear Trap take 10% increased Damage from Trap or Mine Hits": {
+        "gear": "helmet",
+        "skill": "Bear Trap",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 234,
+        "ninja_rank": 865
+    },
+    "90% increased Bladefall Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Bladefall",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 263,
+        "ninja_rank": 345
+    },
+    "24% increased Bladefall Area of Effect": {
+        "gear": "helmet",
+        "skill": "Bladefall",
+        "ninja_chaos": 6.29,
+        "ninja_listing_count": 199,
+        "ninja_rank": 259
+    },
+    "Bladefall has an additional Volley": {
+        "gear": "helmet",
+        "skill": "Bladefall",
+        "ninja_chaos": 8.66,
+        "ninja_listing_count": 450,
+        "ninja_rank": 173
+    },
+    "24% increased Blade Trap Area of Effect": {
+        "gear": "helmet",
+        "skill": "Blade Trap",
+        "ninja_chaos": 4.89,
+        "ninja_listing_count": 171,
+        "ninja_rank": 720
+    },
+    "Blade Trap rotates +1 times": {
+        "gear": "helmet",
+        "skill": "Blade Trap",
+        "ninja_chaos": 7.23,
+        "ninja_listing_count": 263,
+        "ninja_rank": 219
+    },
+    "30% increased Blade Vortex Duration": {
+        "gear": "helmet",
+        "skill": "Blade Vortex",
+        "ninja_chaos": 20.0,
+        "ninja_listing_count": 579,
+        "ninja_rank": 13
+    },
+    "24% increased Blade Vortex Area of Effect": {
+        "gear": "helmet",
+        "skill": "Blade Vortex",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 334,
+        "ninja_rank": 575
+    },
+    "Blade Vortex has +3% to Critical Strike Multiplier for each blade": {
+        "gear": "helmet",
+        "skill": "Blade Vortex",
+        "ninja_chaos": 9.01,
+        "ninja_listing_count": 432,
+        "ninja_rank": 163
+    },
+    "Blast Rain has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Blast Rain",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 206,
+        "ninja_rank": 582
+    },
+    "Blast Rain fires an additional Arrow": {
+        "gear": "helmet",
+        "skill": "Blast Rain",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 395,
+        "ninja_rank": 94
+    },
+    "Blazing Salvo fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Blazing Salvo",
+        "ninja_chaos": 8.66,
+        "ninja_listing_count": 371,
+        "ninja_rank": 174
+    },
+    "Blazing Salvo Projectiles land in a 30% increased Area": {
+        "gear": "helmet",
+        "skill": "Blazing Salvo",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 196,
+        "ninja_rank": 647
+    },
+    "24% increased Blight Area of Effect": {
+        "gear": "helmet",
+        "skill": "Blight",
+        "ninja_chaos": 2.2,
+        "ninja_listing_count": 210,
+        "ninja_rank": 1238
+    },
+    "Blight has 30% increased Hinder Duration": {
+        "gear": "helmet",
+        "skill": "Blight",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 193,
+        "ninja_rank": 438
+    },
+    "Blink Arrow and Blink Arrow Clones have 15% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Blink Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 151,
+        "ninja_rank": 434
+    },
+    "Blink Arrow has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Blink Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 126,
+        "ninja_rank": 633
+    },
+    "Blood Rage grants additional 12% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Blood Rage",
+        "ninja_chaos": 9.22,
+        "ninja_listing_count": 734,
+        "ninja_rank": 152
+    },
+    "Blood Rage grants additional 30% chance to gain a Frenzy Charge on Kill": {
+        "gear": "helmet",
+        "skill": "Blood Rage",
+        "ninja_chaos": 8.61,
+        "ninja_listing_count": 271,
+        "ninja_rank": 177
+    },
+    "24% increased Reap Area of Effect": {
+        "gear": "helmet",
+        "skill": "Reap",
+        "ninja_chaos": 9.42,
+        "ninja_listing_count": 256,
+        "ninja_rank": 145
+    },
+    "+1 to Maximum Blood Charges": {
+        "gear": "helmet",
+        "skill": "Reap",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 501,
+        "ninja_rank": 106
+    },
+    "45% increased Bone Offering Duration": {
+        "gear": "helmet",
+        "skill": "Bone Offering",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 342,
+        "ninja_rank": 403
+    },
+    "Bone Offering grants an additional +9% Chance to Block Attack Damage": {
+        "gear": "helmet",
+        "skill": "Bone Offering",
+        "ninja_chaos": 6.0,
+        "ninja_listing_count": 380,
+        "ninja_rank": 274
+    },
+    "Burning Arrow has +30% chance to Ignite": {
+        "gear": "helmet",
+        "skill": "Burning Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 180,
+        "ninja_rank": 351
+    },
+    "15% of Burning Arrow Physical Damage gained as Extra Fire Damage": {
+        "gear": "helmet",
+        "skill": "Burning Arrow",
+        "ninja_chaos": 7.51,
+        "ninja_listing_count": 295,
+        "ninja_rank": 206
+    },
+    "30% increased Caustic Arrow Duration": {
+        "gear": "helmet",
+        "skill": "Caustic Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 233,
+        "ninja_rank": 430
+    },
+    "24% increased Caustic Arrow Area of Effect": {
+        "gear": "helmet",
+        "skill": "Caustic Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 290,
+        "ninja_rank": 593
+    },
+    "Caustic Arrow has 20% chance to inflict Withered on Hit for 2 seconds base Duration": {
+        "gear": "helmet",
+        "skill": "Caustic Arrow",
+        "ninja_chaos": 7.23,
+        "ninja_listing_count": 275,
+        "ninja_rank": 218
+    },
+    "100% increased Effect of the Buff granted by your Chaos Golems": {
+        "gear": "helmet",
+        "skill": "Summon Chaos Golem",
+        "ninja_chaos": 9.67,
+        "ninja_listing_count": 379,
+        "ninja_rank": 137
+    },
+    "+36% to Chaos Golem Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Chaos Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 118,
+        "ninja_rank": 444
+    },
+    "24% increased Blade Flurry Area of Effect": {
+        "gear": "helmet",
+        "skill": "Blade Flurry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 260,
+        "ninja_rank": 576
+    },
+    "+1 to maximum Blade Flurry stages": {
+        "gear": "helmet",
+        "skill": "Blade Flurry",
+        "ninja_chaos": 8.0,
+        "ninja_listing_count": 505,
+        "ninja_rank": 196
+    },
+    "Charged Dash has +6 to Radius of each Wave's last damage Area": {
+        "gear": "helmet",
+        "skill": "Charged Dash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 108,
+        "ninja_rank": 485
+    },
+    "Charged Dash has 15% more Movement Speed": {
+        "gear": "helmet",
+        "skill": "Charged Dash",
+        "ninja_chaos": 4.27,
+        "ninja_listing_count": 87,
+        "ninja_rank": 799
+    },
+    "Clarity has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Clarity",
+        "ninja_chaos": 5.14,
+        "ninja_listing_count": 470,
+        "ninja_rank": 319
+    },
+    "15% increased Cleave Attack Speed": {
+        "gear": "helmet",
+        "skill": "Cleave",
+        "ninja_chaos": 5.89,
+        "ninja_listing_count": 163,
+        "ninja_rank": 278
+    },
+    "24% increased Cleave Area of Effect": {
+        "gear": "helmet",
+        "skill": "Cleave",
+        "ninja_chaos": 8.34,
+        "ninja_listing_count": 137,
+        "ninja_rank": 185
+    },
+    "Cold Snap has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Cold Snap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 209,
+        "ninja_rank": 631
+    },
+    "24% increased Cold Snap Area of Effect": {
+        "gear": "helmet",
+        "skill": "Cold Snap",
+        "ninja_chaos": 2.91,
+        "ninja_listing_count": 211,
+        "ninja_rank": 1173
+    },
+    "30% increased Conductivity Curse Effect": {
+        "gear": "helmet",
+        "skill": "Conductivity",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 259,
+        "ninja_rank": 441
+    },
+    "45% increased Conductivity Duration": {
+        "gear": "helmet",
+        "skill": "Conductivity",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 148,
+        "ninja_rank": 1043
+    },
+    "Consecrated Path has 15% increased teleport range": {
+        "gear": "helmet",
+        "skill": "Consecrated Path",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 145,
+        "ninja_rank": 498
+    },
+    "30% increased Contagion Duration": {
+        "gear": "helmet",
+        "skill": "Contagion",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 181,
+        "ninja_rank": 1054
+    },
+    "24% increased Contagion Area of Effect": {
+        "gear": "helmet",
+        "skill": "Contagion",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 236,
+        "ninja_rank": 570
+    },
+    "Consecrated Path has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Consecrated Path",
+        "ninja_chaos": 4.75,
+        "ninja_listing_count": 196,
+        "ninja_rank": 742
+    },
+    "30% increased Corrupting Fever Duration": {
+        "gear": "helmet",
+        "skill": "Corrupting Fever",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 546,
+        "ninja_rank": 659
+    },
+    "Corrupting Fever has +50% chance to inflict an additional Corrupted Blood Debuff": {
+        "gear": "helmet",
+        "skill": "Corrupting Fever",
+        "ninja_chaos": 15.0,
+        "ninja_listing_count": 906,
+        "ninja_rank": 27
+    },
+    "Conversion Trap 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Conversion Trap",
+        "ninja_chaos": 4.39,
+        "ninja_listing_count": 120,
+        "ninja_rank": 783
+    },
+    "Convocation has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Convocation",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 242,
+        "ninja_rank": 99
+    },
+    "36% increased Convocation Buff Effect": {
+        "gear": "helmet",
+        "skill": "Convocation",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 222,
+        "ninja_rank": 393
+    },
+    "Crackling Lance has 16% increased Cast Speed": {
+        "gear": "helmet",
+        "skill": "Crackling Lance",
+        "ninja_chaos": 4.55,
+        "ninja_listing_count": 189,
+        "ninja_rank": 770
+    },
+    "Crackling Lance has 36% increased branching angle": {
+        "gear": "helmet",
+        "skill": "Crackling Lance",
+        "ninja_chaos": 5.88,
+        "ninja_listing_count": 170,
+        "ninja_rank": 279
+    },
+    "15% increased Cyclone Attack Speed": {
+        "gear": "helmet",
+        "skill": "Cyclone",
+        "ninja_chaos": 20.0,
+        "ninja_listing_count": 990,
+        "ninja_rank": 12
+    },
+    "60% increased Decoy Totem Life": {
+        "gear": "helmet",
+        "skill": "Decoy Totem",
+        "ninja_chaos": 3.13,
+        "ninja_listing_count": 92,
+        "ninja_rank": 1003
+    },
+    "24% increased Decoy Totem Area of Effect": {
+        "gear": "helmet",
+        "skill": "Decoy Totem",
+        "ninja_chaos": 4.19,
+        "ninja_listing_count": 87,
+        "ninja_rank": 811
+    },
+    "Desecrate Spawns 3 additional corpses": {
+        "gear": "helmet",
+        "skill": "Desecrate",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 462,
+        "ninja_rank": 543
+    },
+    "45% increased Despair Duration": {
+        "gear": "helmet",
+        "skill": "Despair",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 220,
+        "ninja_rank": 405
+    },
+    "30% increased Despair Curse Effect": {
+        "gear": "helmet",
+        "skill": "Despair",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 634,
+        "ninja_rank": 54
+    },
+    "Determination has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Determination",
+        "ninja_chaos": 15.44,
+        "ninja_listing_count": 930,
+        "ninja_rank": 24
+    },
+    "Detonate Dead has a 45% chance to detonate an additional corpse": {
+        "gear": "helmet",
+        "skill": "Detonate Dead",
+        "ninja_chaos": 31.03,
+        "ninja_listing_count": 563,
+        "ninja_rank": 3
+    },
+    "24% increased Detonate Dead Area of Effect": {
+        "gear": "helmet",
+        "skill": "Detonate Dead",
+        "ninja_chaos": 8.86,
+        "ninja_listing_count": 347,
+        "ninja_rank": 168
+    },
+    "30% increased Destructive Link Duration": {
+        "gear": "helmet",
+        "skill": "Destructive Link",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 145,
+        "ninja_rank": 698
+    },
+    "Devouring Totem has 60% Chance to Consume an additional corpse": {
+        "gear": "helmet",
+        "skill": "Devouring Totem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 127,
+        "ninja_rank": 542
+    },
+    "36% increased Devouring Totem Leech per second": {
+        "gear": "helmet",
+        "skill": "Devouring Totem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 91,
+        "ninja_rank": 465
+    },
+    "Discipline has 45% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Discipline",
+        "ninja_chaos": 14.71,
+        "ninja_listing_count": 951,
+        "ninja_rank": 34
+    },
+    "Divine Ire's beam has 15% increased width": {
+        "gear": "helmet",
+        "skill": "Divine Ire",
+        "ninja_chaos": 6.29,
+        "ninja_listing_count": 193,
+        "ninja_rank": 258
+    },
+    "Divine Ire Damages 2 additional nearby Enemies when gaining Stages": {
+        "gear": "helmet",
+        "skill": "Divine Ire",
+        "ninja_chaos": 8.0,
+        "ninja_listing_count": 318,
+        "ninja_rank": 191
+    },
+    "30% increased Sentinel of Dominance Duration": {
+        "gear": "helmet",
+        "skill": "Dominating Blow",
+        "ninja_chaos": 6.07,
+        "ninja_listing_count": 181,
+        "ninja_rank": 270
+    },
+    "Dominating Blow can summon 3 additional Magic Sentinels of Dominance": {
+        "gear": "helmet",
+        "skill": "Dominating Blow",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 425,
+        "ninja_rank": 78
+    },
+    "Dominating Blow can summon an additional Rare Sentinel of Dominance": {
+        "gear": "helmet",
+        "skill": "Dominating Blow",
+        "ninja_chaos": 9.05,
+        "ninja_listing_count": 480,
+        "ninja_rank": 161
+    },
+    "60% increased Lacerate Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Lacerate",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 248,
+        "ninja_rank": 453
+    },
+    "24% increased Lacerate Area of Effect": {
+        "gear": "helmet",
+        "skill": "Lacerate",
+        "ninja_chaos": 3.54,
+        "ninja_listing_count": 207,
+        "ninja_rank": 958
+    },
+    "Lacerate deals (14-18) to (20-25) added Physical Damage against Bleeding Enemies": {
+        "gear": "helmet",
+        "skill": "Lacerate",
+        "ninja_chaos": 7.92,
+        "ninja_listing_count": 316,
+        "ninja_rank": 198
+    },
+    "15% increased Double Strike Attack Speed": {
+        "gear": "helmet",
+        "skill": "Double Strike",
+        "ninja_chaos": 9.58,
+        "ninja_listing_count": 184,
+        "ninja_rank": 140
+    },
+    "90% increased Double Strike Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Double Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 207,
+        "ninja_rank": 363
+    },
+    "Double Strike has a 15% chance to deal Double Damage to Bleeding Enemies": {
+        "gear": "helmet",
+        "skill": "Double Strike",
+        "ninja_chaos": 4.67,
+        "ninja_listing_count": 281,
+        "ninja_rank": 755
+    },
+    "Dread Banner has 40% increased Aura Effect": {
+        "gear": "helmet",
+        "skill": "Dread Banner",
+        "ninja_chaos": 7.18,
+        "ninja_listing_count": 457,
+        "ninja_rank": 222
+    },
+    "15% increased Dual Strike Attack Speed": {
+        "gear": "helmet",
+        "skill": "Dual Strike",
+        "ninja_chaos": 7.24,
+        "ninja_listing_count": 200,
+        "ninja_rank": 217
+    },
+    "90% increased Dual Strike Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Dual Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 249,
+        "ninja_rank": 356
+    },
+    "24% increased Earthquake Area of Effect": {
+        "gear": "helmet",
+        "skill": "Earthquake",
+        "ninja_chaos": 6.4,
+        "ninja_listing_count": 228,
+        "ninja_rank": 254
+    },
+    "Earthquake deals 8% increased Damage per 0.1 seconds Duration": {
+        "gear": "helmet",
+        "skill": "Earthquake",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 257,
+        "ninja_rank": 622
+    },
+    "15% increased Elemental Hit Attack Speed": {
+        "gear": "helmet",
+        "skill": "Elemental Hit",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 638,
+        "ninja_rank": 53
+    },
+    "Elemental Hit has +30% chance to Freeze, Shock and Ignite": {
+        "gear": "helmet",
+        "skill": "Elemental Hit",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 267,
+        "ninja_rank": 442
+    },
+    "30% increased Elemental Weakness Curse Effect": {
+        "gear": "helmet",
+        "skill": "Elemental Weakness",
+        "ninja_chaos": 6.78,
+        "ninja_listing_count": 422,
+        "ninja_rank": 241
+    },
+    "45% increased Elemental Weakness Duration": {
+        "gear": "helmet",
+        "skill": "Elemental Weakness",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 150,
+        "ninja_rank": 468
+    },
+    "Enduring Cry has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Enduring Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 227,
+        "ninja_rank": 627
+    },
+    "Enduring Cry grants 1 additional Endurance Charge": {
+        "gear": "helmet",
+        "skill": "Enduring Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 357,
+        "ninja_rank": 621
+    },
+    "Energy Blades have 15% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Energy Blade",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 433,
+        "ninja_rank": 117
+    },
+    "Attacks with Energy Blades Penetrate 12% Lightning Resistance": {
+        "gear": "helmet",
+        "skill": "Energy Blade",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 469,
+        "ninja_rank": 122
+    },
+    "30% increased Enfeeble Curse Effect": {
+        "gear": "helmet",
+        "skill": "Enfeeble",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 337,
+        "ninja_rank": 375
+    },
+    "45% increased Enfeeble Duration": {
+        "gear": "helmet",
+        "skill": "Enfeeble",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 158,
+        "ninja_rank": 346
+    },
+    "30% increased Ethereal Knives Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Ethereal Knives",
+        "ninja_chaos": 6.77,
+        "ninja_listing_count": 159,
+        "ninja_rank": 242
+    },
+    "Ethereal Knives Pierces an additional Target": {
+        "gear": "helmet",
+        "skill": "Ethereal Knives",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 281,
+        "ninja_rank": 681
+    },
+    "Explosive Arrow has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Explosive Arrow",
+        "ninja_chaos": 7.29,
+        "ninja_listing_count": 205,
+        "ninja_rank": 216
+    },
+    "Explosive Arrow has 15% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Explosive Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 210,
+        "ninja_rank": 557
+    },
+    "24% increased Explosive Concoction Area of Effect": {
+        "gear": "helmet",
+        "skill": "Explosive Concoction",
+        "ninja_chaos": 12.38,
+        "ninja_listing_count": 402,
+        "ninja_rank": 41
+    },
+    "Explosive Concoction uses 12% reduced Flask Charges": {
+        "gear": "helmet",
+        "skill": "Explosive Concoction",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 335,
+        "ninja_rank": 665
+    },
+    "30% increased Exsanguinate Duration": {
+        "gear": "helmet",
+        "skill": "Exsanguinate",
+        "ninja_chaos": 5.75,
+        "ninja_listing_count": 403,
+        "ninja_rank": 283
+    },
+    "Exsanguinate has a 25% chance to Chain an additional time": {
+        "gear": "helmet",
+        "skill": "Exsanguinate",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 672,
+        "ninja_rank": 108
+    },
+    "30% increased Eye of Winter Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Eye of Winter",
+        "ninja_chaos": 5.73,
+        "ninja_listing_count": 387,
+        "ninja_rank": 285
+    },
+    "Eye of Winter fires Shard projectiles with 12% increased Frequency during flight": {
+        "gear": "helmet",
+        "skill": "Eye of Winter",
+        "ninja_chaos": 6.0,
+        "ninja_listing_count": 729,
+        "ninja_rank": 275
+    },
+    "12% increased Fireball Cast Speed": {
+        "gear": "helmet",
+        "skill": "Fireball",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 140,
+        "ninja_rank": 365
+    },
+    "Fireball has +30% chance to Ignite": {
+        "gear": "helmet",
+        "skill": "Fireball",
+        "ninja_chaos": 4.76,
+        "ninja_listing_count": 150,
+        "ninja_rank": 737
+    },
+    "12% increased Scorching Ray Cast Speed": {
+        "gear": "helmet",
+        "skill": "Scorching Ray",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 186,
+        "ninja_rank": 426
+    },
+    "15% increased Scorching Ray beam length": {
+        "gear": "helmet",
+        "skill": "Scorching Ray",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 201,
+        "ninja_rank": 417
+    },
+    "30% increased Firestorm Duration": {
+        "gear": "helmet",
+        "skill": "Firestorm",
+        "ninja_chaos": 3.41,
+        "ninja_listing_count": 131,
+        "ninja_rank": 970
+    },
+    "24% increased Firestorm explosion Area of Effect": {
+        "gear": "helmet",
+        "skill": "Firestorm",
+        "ninja_chaos": 4.83,
+        "ninja_listing_count": 160,
+        "ninja_rank": 730
+    },
+    "60% increased Fire Trap Burning Damage": {
+        "gear": "helmet",
+        "skill": "Fire Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 211,
+        "ninja_rank": 344
+    },
+    "45% increased Fire Trap Burning Ground Duration": {
+        "gear": "helmet",
+        "skill": "Fire Trap",
+        "ninja_chaos": 4.42,
+        "ninja_listing_count": 137,
+        "ninja_rank": 779
+    },
+    "90% increased Flameblast Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Flameblast",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 182,
+        "ninja_rank": 370
+    },
+    "24% increased Flameblast Area of Effect": {
+        "gear": "helmet",
+        "skill": "Flameblast",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 157,
+        "ninja_rank": 579
+    },
+    "Flame Dash has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Flame Dash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 223,
+        "ninja_rank": 624
+    },
+    "+36% to increased Flame Golem Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Flame Golem",
+        "ninja_chaos": 2.98,
+        "ninja_listing_count": 97,
+        "ninja_rank": 1164
+    },
+    "150% increased Effect of the Buff granted by your Flame Golems": {
+        "gear": "helmet",
+        "skill": "Summon Flame Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 258,
+        "ninja_rank": 348
+    },
+    "90% increased Flame Surge Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Flame Surge",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 175,
+        "ninja_rank": 394
+    },
+    "60% increased Flame Surge Damage against Burning Enemies": {
+        "gear": "helmet",
+        "skill": "Flame Surge",
+        "ninja_chaos": 5.5,
+        "ninja_listing_count": 196,
+        "ninja_rank": 295
+    },
+    "Flamethrower Trap has 15% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Flamethrower Trap",
+        "ninja_chaos": 4.42,
+        "ninja_listing_count": 96,
+        "ninja_rank": 780
+    },
+    "Flamethrower Trap has 30% increased Skill Effect Duration": {
+        "gear": "helmet",
+        "skill": "Flamethrower Trap",
+        "ninja_chaos": 5.53,
+        "ninja_listing_count": 119,
+        "ninja_rank": 294
+    },
+    "Flamethrower Trap has 2 additional Flames": {
+        "gear": "helmet",
+        "skill": "Flamethrower Trap",
+        "ninja_chaos": 3.64,
+        "ninja_listing_count": 153,
+        "ninja_rank": 944
+    },
+    "Holy Flame Totem fires 2 additional Projectiles": {
+        "gear": "helmet",
+        "skill": "Holy Flame Totem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 193,
+        "ninja_rank": 524
+    },
+    "Holy Flame Totem has 30% increased Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Holy Flame Totem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 115,
+        "ninja_rank": 526
+    },
+    "Consecrated Ground from Holy Flame Totem applies 9% increased Damage taken to Enemies": {
+        "gear": "helmet",
+        "skill": "Holy Flame Totem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 157,
+        "ninja_rank": 525
+    },
+    "Flame Wall grants 31 to 47 Added Fire Damage to Projectiles": {
+        "gear": "helmet",
+        "skill": "Flame Wall",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 209,
+        "ninja_rank": 649
+    },
+    "+1 to maximum number of Flame Walls": {
+        "gear": "helmet",
+        "skill": "Flame Wall",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 270,
+        "ninja_rank": 651
+    },
+    "30% increased Flammability Curse Effect": {
+        "gear": "helmet",
+        "skill": "Flammability",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 274,
+        "ninja_rank": 367
+    },
+    "45% increased Flammability Duration": {
+        "gear": "helmet",
+        "skill": "Flammability",
+        "ninja_chaos": 7.59,
+        "ninja_listing_count": 158,
+        "ninja_rank": 203
+    },
+    "45% increased Flesh Offering Duration": {
+        "gear": "helmet",
+        "skill": "Flesh Offering",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 300,
+        "ninja_rank": 433
+    },
+    "Flesh Offering grants an additional 21% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Flesh Offering",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 589,
+        "ninja_rank": 387
+    },
+    "15% increased Frostbolt Cast Speed": {
+        "gear": "helmet",
+        "skill": "Frostbolt",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 170,
+        "ninja_rank": 330
+    },
+    "Frostbolt has +15% chance to Freeze": {
+        "gear": "helmet",
+        "skill": "Frostbolt",
+        "ninja_chaos": 4.9,
+        "ninja_listing_count": 133,
+        "ninja_rank": 717
+    },
+    "45% increased Spirit Offering Duration": {
+        "gear": "helmet",
+        "skill": "Spirit Offering",
+        "ninja_chaos": 5.9,
+        "ninja_listing_count": 249,
+        "ninja_rank": 277
+    },
+    "Spirit Offering grants +12% of Physical Damage as Extra Chaos Damage": {
+        "gear": "helmet",
+        "skill": "Spirit Offering",
+        "ninja_chaos": 7.06,
+        "ninja_listing_count": 402,
+        "ninja_rank": 226
+    },
+    "30% increased Flame Link Duration": {
+        "gear": "helmet",
+        "skill": "Flame Link",
+        "ninja_chaos": 2.79,
+        "ninja_listing_count": 142,
+        "ninja_rank": 1183
+    },
+    "Flicker Strike has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Flicker Strike",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 471,
+        "ninja_rank": 101
+    },
+    "9% increased Flicker Strike Damage per Frenzy Charge": {
+        "gear": "helmet",
+        "skill": "Flicker Strike",
+        "ninja_chaos": 25.74,
+        "ninja_listing_count": 990,
+        "ninja_rank": 8
+    },
+    "30% increased Forbidden Rite Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Forbidden Rite",
+        "ninja_chaos": 7.12,
+        "ninja_listing_count": 333,
+        "ninja_rank": 224
+    },
+    "Forbidden Rite fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Forbidden Rite",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 1002,
+        "ninja_rank": 111
+    },
+    "12% increased Freezing Pulse Cast Speed": {
+        "gear": "helmet",
+        "skill": "Freezing Pulse",
+        "ninja_chaos": 8.63,
+        "ninja_listing_count": 218,
+        "ninja_rank": 176
+    },
+    "30% increased Freezing Pulse Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Freezing Pulse",
+        "ninja_chaos": 8.61,
+        "ninja_listing_count": 272,
+        "ninja_rank": 178
+    },
+    "30% Chance on Frenzy to gain an additional Frenzy Charge": {
+        "gear": "helmet",
+        "skill": "Frenzy",
+        "ninja_chaos": 8.26,
+        "ninja_listing_count": 277,
+        "ninja_rank": 186
+    },
+    "9% increased Frenzy Damage per Frenzy Charge": {
+        "gear": "helmet",
+        "skill": "Frenzy",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 617,
+        "ninja_rank": 55
+    },
+    "30% increased Frostbite Curse Effect": {
+        "gear": "helmet",
+        "skill": "Frostbite",
+        "ninja_chaos": 6.86,
+        "ninja_listing_count": 260,
+        "ninja_rank": 240
+    },
+    "45% increased Frostbite Duration": {
+        "gear": "helmet",
+        "skill": "Frostbite",
+        "ninja_chaos": 6.35,
+        "ninja_listing_count": 168,
+        "ninja_rank": 255
+    },
+    "Frost Bomb has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Frost Bomb",
+        "ninja_chaos": 4.11,
+        "ninja_listing_count": 149,
+        "ninja_rank": 826
+    },
+    "24% increased Frost Bomb Area of Effect": {
+        "gear": "helmet",
+        "skill": "Frost Bomb",
+        "ninja_chaos": 7.82,
+        "ninja_listing_count": 141,
+        "ninja_rank": 199
+    },
+    "Frost Bomb has 30% increased Debuff Duration": {
+        "gear": "helmet",
+        "skill": "Frost Bomb",
+        "ninja_chaos": 2.48,
+        "ninja_listing_count": 130,
+        "ninja_rank": 1218
+    },
+    "Frost Shield has +1 Cooldown Use": {
+        "gear": "helmet",
+        "skill": "Frost Shield",
+        "ninja_chaos": 2.18,
+        "ninja_listing_count": 154,
+        "ninja_rank": 1240
+    },
+    "Frost Shield has +180 to maximum Life per Stage": {
+        "gear": "helmet",
+        "skill": "Frost Shield",
+        "ninja_chaos": 8.4,
+        "ninja_listing_count": 169,
+        "ninja_rank": 184
+    },
+    "Frost Wall has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Frost Wall",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 132,
+        "ninja_rank": 625
+    },
+    "36% increased Frost Wall Duration": {
+        "gear": "helmet",
+        "skill": "Frost Wall",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 96,
+        "ninja_rank": 383
+    },
+    "General's Cry has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "General's Cry",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 585,
+        "ninja_rank": 102
+    },
+    "General's Cry has +1 to maximum number of Mirage Warriors": {
+        "gear": "helmet",
+        "skill": "General's Cry",
+        "ninja_chaos": 9.99,
+        "ninja_listing_count": 1072,
+        "ninja_rank": 126
+    },
+    "24% increased Glacial Cascade Area of Effect": {
+        "gear": "helmet",
+        "skill": "Glacial Cascade",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 189,
+        "ninja_rank": 590
+    },
+    "Glacial Cascade gains 10% of Physical Damage as Extra Cold Damage": {
+        "gear": "helmet",
+        "skill": "Glacial Cascade",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 307,
+        "ninja_rank": 644
+    },
+    "Glacial Hammer has +30% chance to Freeze": {
+        "gear": "helmet",
+        "skill": "Glacial Hammer",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 127,
+        "ninja_rank": 358
+    },
+    "15% of Glacial Hammer Physical Damage gained as Extra Cold Damage": {
+        "gear": "helmet",
+        "skill": "Glacial Hammer",
+        "ninja_chaos": 4.35,
+        "ninja_listing_count": 292,
+        "ninja_rank": 789
+    },
+    "Grace has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Grace",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 885,
+        "ninja_rank": 116
+    },
+    "24% increased Ground Slam Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ground Slam",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 204,
+        "ninja_rank": 598
+    },
+    "Ground Slam has a 24% increased angle": {
+        "gear": "helmet",
+        "skill": "Ground Slam",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 187,
+        "ninja_rank": 372
+    },
+    "Haste has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Haste",
+        "ninja_chaos": 8.0,
+        "ninja_listing_count": 754,
+        "ninja_rank": 195
+    },
+    "Hatred has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Hatred",
+        "ninja_chaos": 14.47,
+        "ninja_listing_count": 1010,
+        "ninja_rank": 35
+    },
+    "15% increased Heavy Strike Attack Speed": {
+        "gear": "helmet",
+        "skill": "Heavy Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 154,
+        "ninja_rank": 359
+    },
+    "Heavy Strike has a 12% chance to deal Double Damage": {
+        "gear": "helmet",
+        "skill": "Heavy Strike",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 223,
+        "ninja_rank": 61
+    },
+    "Herald of Agony has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Summon Herald of Agony",
+        "ninja_chaos": 16.76,
+        "ninja_listing_count": 855,
+        "ninja_rank": 21
+    },
+    "Summoned Agony Crawler fires 2 additional Projectiles": {
+        "gear": "helmet",
+        "skill": "Summon Herald of Agony",
+        "ninja_chaos": 8.99,
+        "ninja_listing_count": 625,
+        "ninja_rank": 165
+    },
+    "Herald of Ash has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Herald of Ash",
+        "ninja_chaos": 7.35,
+        "ninja_listing_count": 542,
+        "ninja_rank": 212
+    },
+    "Herald of Ice has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Herald of Ice",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 685,
+        "ninja_rank": 697
+    },
+    "Herald of Purity has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Herald of Purity",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 777,
+        "ninja_rank": 123
+    },
+    "+1 to maximum number of Sentinels of Purity": {
+        "gear": "helmet",
+        "skill": "Herald of Purity",
+        "ninja_chaos": 23.93,
+        "ninja_listing_count": 639,
+        "ninja_rank": 10
+    },
+    "Herald of Thunder has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Herald of Thunder",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 806,
+        "ninja_rank": 119
+    },
+    "Hexblast has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Hexblast",
+        "ninja_chaos": 4.86,
+        "ninja_listing_count": 235,
+        "ninja_rank": 724
+    },
+    "Hexblast has 15% chance to not remove a Hex": {
+        "gear": "helmet",
+        "skill": "Hexblast",
+        "ninja_chaos": 4.17,
+        "ninja_listing_count": 176,
+        "ninja_rank": 817
+    },
+    "Summoned Holy Relics have 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Summon Holy Relic",
+        "ninja_chaos": 7.09,
+        "ninja_listing_count": 189,
+        "ninja_rank": 225
+    },
+    "Summoned Holy Relics have 100% increased Buff Effect": {
+        "gear": "helmet",
+        "skill": "Summon Holy Relic",
+        "ninja_chaos": 7.76,
+        "ninja_listing_count": 287,
+        "ninja_rank": 200
+    },
+    "15% of Ice Crash Physical Damage gained as Extra Cold Damage": {
+        "gear": "helmet",
+        "skill": "Ice Crash",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 387,
+        "ninja_rank": 48
+    },
+    "24% increased Ice Crash Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ice Crash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 216,
+        "ninja_rank": 580
+    },
+    "+36% to Ice Golem Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Ice Golem",
+        "ninja_chaos": 4.15,
+        "ninja_listing_count": 102,
+        "ninja_rank": 819
+    },
+    "150% increased Effect of the Buff granted by your Ice Golems": {
+        "gear": "helmet",
+        "skill": "Summon Ice Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 389,
+        "ninja_rank": 384
+    },
+    "Ice Nova has +30% chance to Freeze": {
+        "gear": "helmet",
+        "skill": "Ice Nova",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 150,
+        "ninja_rank": 67
+    },
+    "24% increased Ice Nova Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ice Nova",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 239,
+        "ninja_rank": 92
+    },
+    "Chills from Ice Nova Hits always reduce Action Speed by at least 8%": {
+        "gear": "helmet",
+        "skill": "Ice Nova",
+        "ninja_chaos": 2.0,
+        "ninja_listing_count": 122,
+        "ninja_rank": 1277
+    },
+    "24% increased Ice Shot Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ice Shot",
+        "ninja_chaos": 8.0,
+        "ninja_listing_count": 311,
+        "ninja_rank": 193
+    },
+    "Ice Shot has 60% increased Area of Effect angle": {
+        "gear": "helmet",
+        "skill": "Ice Shot",
+        "ninja_chaos": 8.8,
+        "ninja_listing_count": 341,
+        "ninja_rank": 170
+    },
+    "Siphoning Trap has 45% increased Skill Effect Duration": {
+        "gear": "helmet",
+        "skill": "Siphoning Trap",
+        "ninja_chaos": 3.95,
+        "ninja_listing_count": 93,
+        "ninja_rank": 901
+    },
+    "Siphoning Trap's beam to you grants 1% reduced Damage taken for each other beam": {
+        "gear": "helmet",
+        "skill": "Siphoning Trap",
+        "ninja_chaos": 3.66,
+        "ninja_listing_count": 100,
+        "ninja_rank": 940
+    },
+    "Siphoning Trap has 40% increased Chill Effect": {
+        "gear": "helmet",
+        "skill": "Siphoning Trap",
+        "ninja_chaos": 3.85,
+        "ninja_listing_count": 77,
+        "ninja_rank": 913
+    },
+    "15% Chance to gain a Power Charge on Critical Strike with Ice Spear": {
+        "gear": "helmet",
+        "skill": "Ice Spear",
+        "ninja_chaos": 5.38,
+        "ninja_listing_count": 305,
+        "ninja_rank": 301
+    },
+    "300% increased Ice Spear Critical Strike Chance in second form": {
+        "gear": "helmet",
+        "skill": "Ice Spear",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 383,
+        "ninja_rank": 71
+    },
+    "Ice Spear fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Ice Spear",
+        "ninja_chaos": 28.48,
+        "ninja_listing_count": 856,
+        "ninja_rank": 7
+    },
+    "Ice Spear travels 30% reduced distance before changing forms": {
+        "gear": "helmet",
+        "skill": "Ice Spear",
+        "ninja_chaos": 9.55,
+        "ninja_listing_count": 287,
+        "ninja_rank": 141
+    },
+    "24% increased Ice Trap Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ice Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 220,
+        "ninja_rank": 596
+    },
+    "Ice Trap Damage Penetrates 10% Cold Resistance": {
+        "gear": "helmet",
+        "skill": "Ice Trap",
+        "ninja_chaos": 9.66,
+        "ninja_listing_count": 373,
+        "ninja_rank": 138
+    },
+    "36% increased Immortal Call Duration": {
+        "gear": "helmet",
+        "skill": "Immortal Call",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 235,
+        "ninja_rank": 435
+    },
+    "Incinerate has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Incinerate",
+        "ninja_chaos": 9.02,
+        "ninja_listing_count": 147,
+        "ninja_rank": 162
+    },
+    "Incinerate has +2 to maximum stages": {
+        "gear": "helmet",
+        "skill": "Incinerate",
+        "ninja_chaos": 4.01,
+        "ninja_listing_count": 253,
+        "ninja_rank": 843
+    },
+    "10% increased Incinerate Damage for each stage": {
+        "gear": "helmet",
+        "skill": "Incinerate",
+        "ninja_chaos": 4.65,
+        "ninja_listing_count": 183,
+        "ninja_rank": 759
+    },
+    "15% of Infernal Blow Physical Damage gained as Extra Fire Damage": {
+        "gear": "helmet",
+        "skill": "Infernal Blow",
+        "ninja_chaos": 4.75,
+        "ninja_listing_count": 223,
+        "ninja_rank": 740
+    },
+    "24% increased Infernal Blow Area of Effect": {
+        "gear": "helmet",
+        "skill": "Infernal Blow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 124,
+        "ninja_rank": 592
+    },
+    "Infernal Blow Debuff deals an additional 5% of Damage per Charge": {
+        "gear": "helmet",
+        "skill": "Infernal Blow",
+        "ninja_chaos": 7.35,
+        "ninja_listing_count": 185,
+        "ninja_rank": 211
+    },
+    "Infernal Cry has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Infernal Cry",
+        "ninja_chaos": 4.26,
+        "ninja_listing_count": 192,
+        "ninja_rank": 801
+    },
+    "Combust has 30% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Infernal Cry",
+        "ninja_chaos": 4.76,
+        "ninja_listing_count": 188,
+        "ninja_rank": 738
+    },
+    "Intimidating Cry has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Intimidating Cry",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 154,
+        "ninja_rank": 104
+    },
+    "Intimidating Cry has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Intimidating Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 152,
+        "ninja_rank": 617
+    },
+    "30% increased Intuitive Link Duration": {
+        "gear": "helmet",
+        "skill": "Intuitive Link",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 148,
+        "ninja_rank": 699
+    },
+    "24% increased Kinetic Blast Area of Effect": {
+        "gear": "helmet",
+        "skill": "Kinetic Blast",
+        "ninja_chaos": 8.87,
+        "ninja_listing_count": 340,
+        "ninja_rank": 166
+    },
+    "Kinetic Blast has a 75% chance for an additional explosion": {
+        "gear": "helmet",
+        "skill": "Kinetic Blast",
+        "ninja_chaos": 20.4,
+        "ninja_listing_count": 884,
+        "ninja_rank": 11
+    },
+    "Lancing Steel has 30% chance to count as consuming Steel Shards without Consuming them": {
+        "gear": "helmet",
+        "skill": "Lancing Steel",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 293,
+        "ninja_rank": 656
+    },
+    "Lancing Steel fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Lancing Steel",
+        "ninja_chaos": 7.96,
+        "ninja_listing_count": 648,
+        "ninja_rank": 197
+    },
+    "15% increased Leap Slam Attack Speed": {
+        "gear": "helmet",
+        "skill": "Leap Slam",
+        "ninja_chaos": 5.63,
+        "ninja_listing_count": 183,
+        "ninja_rank": 289
+    },
+    "24% increased Leap Slam Area of Effect": {
+        "gear": "helmet",
+        "skill": "Leap Slam",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 112,
+        "ninja_rank": 583
+    },
+    "24% increased Lightning Arrow Area of Effect": {
+        "gear": "helmet",
+        "skill": "Lightning Arrow",
+        "ninja_chaos": 9.72,
+        "ninja_listing_count": 326,
+        "ninja_rank": 134
+    },
+    "Lightning Arrow hits 2 additional Enemies": {
+        "gear": "helmet",
+        "skill": "Lightning Arrow",
+        "ninja_chaos": 72.32,
+        "ninja_listing_count": 1030,
+        "ninja_rank": 1
+    },
+    "150% increased Effect of the Buff granted by your Lightning Golems": {
+        "gear": "helmet",
+        "skill": "Summon Lightning Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 341,
+        "ninja_rank": 343
+    },
+    "+36% to Lightning Golem Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Lightning Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 100,
+        "ninja_rank": 466
+    },
+    "Lightning Strike fires 3 additional Projectiles": {
+        "gear": "helmet",
+        "skill": "Lightning Strike",
+        "ninja_chaos": 19.63,
+        "ninja_listing_count": 1241,
+        "ninja_rank": 18
+    },
+    "Lightning Strike pierces 3 additional Targets": {
+        "gear": "helmet",
+        "skill": "Lightning Strike",
+        "ninja_chaos": 30.0,
+        "ninja_listing_count": 1262,
+        "ninja_rank": 5
+    },
+    "24% increased Lightning Tendrils Area of Effect": {
+        "gear": "helmet",
+        "skill": "Lightning Tendrils",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 125,
+        "ninja_rank": 880
+    },
+    "60% increased Lightning Tendrils Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Lightning Tendrils",
+        "ninja_chaos": 4.64,
+        "ninja_listing_count": 169,
+        "ninja_rank": 762
+    },
+    "12% increased Lightning Spire Trap Throwing Speed": {
+        "gear": "helmet",
+        "skill": "Lightning Spire Trap",
+        "ninja_chaos": 3.72,
+        "ninja_listing_count": 84,
+        "ninja_rank": 932
+    },
+    "Lightning Spire Trap has 30% increased Skill Effect Duration": {
+        "gear": "helmet",
+        "skill": "Lightning Spire Trap",
+        "ninja_chaos": 2.0,
+        "ninja_listing_count": 106,
+        "ninja_rank": 1274
+    },
+    "Lightning Spire Trap has 15% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Lightning Spire Trap",
+        "ninja_chaos": 6.29,
+        "ninja_listing_count": 92,
+        "ninja_rank": 260
+    },
+    "Lightning Spire Trap strikes an additional area": {
+        "gear": "helmet",
+        "skill": "Lightning Spire Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 153,
+        "ninja_rank": 489
+    },
+    "Lightning Trap pierces 3 additional Targets": {
+        "gear": "helmet",
+        "skill": "Lightning Trap",
+        "ninja_chaos": 8.65,
+        "ninja_listing_count": 434,
+        "ninja_rank": 175
+    },
+    "Lightning Trap Damage Penetrates 10% Lightning Resistance": {
+        "gear": "helmet",
+        "skill": "Lightning Trap",
+        "ninja_chaos": 8.81,
+        "ninja_listing_count": 287,
+        "ninja_rank": 169
+    },
+    "40% increased Lightning Trap Lightning Ailment Effect": {
+        "gear": "helmet",
+        "skill": "Lightning Trap",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 152,
+        "ninja_rank": 1130
+    },
+    "12% increased Lightning Warp Cast Speed": {
+        "gear": "helmet",
+        "skill": "Lightning Warp",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 95,
+        "ninja_rank": 402
+    },
+    "30% reduced Lightning Warp Duration": {
+        "gear": "helmet",
+        "skill": "Lightning Warp",
+        "ninja_chaos": 5.53,
+        "ninja_listing_count": 164,
+        "ninja_rank": 293
+    },
+    "Rolling Magma Chains an additional time": {
+        "gear": "helmet",
+        "skill": "Rolling Magma",
+        "ninja_chaos": 5.33,
+        "ninja_listing_count": 267,
+        "ninja_rank": 304
+    },
+    "24% increased Rolling Magma Area of Effect": {
+        "gear": "helmet",
+        "skill": "Rolling Magma",
+        "ninja_chaos": 3.53,
+        "ninja_listing_count": 118,
+        "ninja_rank": 959
+    },
+    "Malevolence has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Malevolence",
+        "ninja_chaos": 15.0,
+        "ninja_listing_count": 1059,
+        "ninja_rank": 30
+    },
+    "24% increased Manabond Area of Effect": {
+        "gear": "helmet",
+        "skill": "Manabond",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 152,
+        "ninja_rank": 1151
+    },
+    "Manabond Penetrates 12% Lightning Resistance while on Low Mana": {
+        "gear": "helmet",
+        "skill": "Manabond",
+        "ninja_chaos": 9.16,
+        "ninja_listing_count": 202,
+        "ninja_rank": 155
+    },
+    "Mirror Arrow and Mirror Arrow Clones have 15% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Mirror Arrow",
+        "ninja_chaos": 5.26,
+        "ninja_listing_count": 216,
+        "ninja_rank": 307
+    },
+    "Mirror Arrow has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Mirror Arrow",
+        "ninja_chaos": 5.15,
+        "ninja_listing_count": 179,
+        "ninja_rank": 318
+    },
+    "Molten Strike fires 2 additional Projectiles": {
+        "gear": "helmet",
+        "skill": "Molten Strike",
+        "ninja_chaos": 15.16,
+        "ninja_listing_count": 810,
+        "ninja_rank": 25
+    },
+    "24% increased Molten Strike Area of Effect": {
+        "gear": "helmet",
+        "skill": "Molten Strike",
+        "ninja_chaos": 4.19,
+        "ninja_listing_count": 214,
+        "ninja_rank": 813
+    },
+    "30% chance for Phase Run to increase Duration without removing Frenzy Charges": {
+        "gear": "helmet",
+        "skill": "Phase Run",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 177,
+        "ninja_rank": 507
+    },
+    "36% increased Phase Run Duration": {
+        "gear": "helmet",
+        "skill": "Phase Run",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 229,
+        "ninja_rank": 340
+    },
+    "Seismic Trap has 30% increased Skill Effect Duration": {
+        "gear": "helmet",
+        "skill": "Seismic Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 464,
+        "ninja_rank": 492
+    },
+    "Seismic Trap has 15% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Seismic Trap",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 437,
+        "ninja_rank": 103
+    },
+    "Seismic Trap releases an additional Wave": {
+        "gear": "helmet",
+        "skill": "Seismic Trap",
+        "ninja_chaos": 48.87,
+        "ninja_listing_count": 699,
+        "ninja_rank": 2
+    },
+    "Petrified Blood has 45% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Petrified Blood",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 566,
+        "ninja_rank": 120
+    },
+    "30% increased Poacher's Mark Curse Effect": {
+        "gear": "helmet",
+        "skill": "Poacher's Mark",
+        "ninja_chaos": 5.49,
+        "ninja_listing_count": 283,
+        "ninja_rank": 296
+    },
+    "45% increased Poacher's Mark Duration": {
+        "gear": "helmet",
+        "skill": "Poacher's Mark",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 149,
+        "ninja_rank": 1034
+    },
+    "24% increased Poisonous Concoction Area of Effect": {
+        "gear": "helmet",
+        "skill": "Poisonous Concoction",
+        "ninja_chaos": 15.0,
+        "ninja_listing_count": 927,
+        "ninja_rank": 31
+    },
+    "Poisonous Concoction uses 12% reduced Flask Charges": {
+        "gear": "helmet",
+        "skill": "Poisonous Concoction",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 509,
+        "ninja_rank": 696
+    },
+    "45% Chance to gain an additional Power Charge on Kill with Power Siphon": {
+        "gear": "helmet",
+        "skill": "Power Siphon",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 223,
+        "ninja_rank": 376
+    },
+    "15% increased Power Siphon Attack Speed": {
+        "gear": "helmet",
+        "skill": "Power Siphon",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 304,
+        "ninja_rank": 399
+    },
+    "Power Siphon fires 2 additional Projectiles": {
+        "gear": "helmet",
+        "skill": "Power Siphon",
+        "ninja_chaos": 15.0,
+        "ninja_listing_count": 801,
+        "ninja_rank": 26
+    },
+    "Pride has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Pride",
+        "ninja_chaos": 17.5,
+        "ninja_listing_count": 1012,
+        "ninja_rank": 20
+    },
+    "Precision has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Precision",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 646,
+        "ninja_rank": 118
+    },
+    "Sniper's Mark has 30% increased Curse Effect": {
+        "gear": "helmet",
+        "skill": "Sniper's Mark",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 533,
+        "ninja_rank": 100
+    },
+    "Sniper's Mark has 45% increased Duration": {
+        "gear": "helmet",
+        "skill": "Sniper's Mark",
+        "ninja_chaos": 9.73,
+        "ninja_listing_count": 213,
+        "ninja_rank": 132
+    },
+    "30% increased Protective Link Duration": {
+        "gear": "helmet",
+        "skill": "Protective Link",
+        "ninja_chaos": 4.69,
+        "ninja_listing_count": 130,
+        "ninja_rank": 751
+    },
+    "45% increased Puncture Duration": {
+        "gear": "helmet",
+        "skill": "Puncture",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 213,
+        "ninja_rank": 1020
+    },
+    "30% Chance for Puncture to Maim on hit": {
+        "gear": "helmet",
+        "skill": "Puncture",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 144,
+        "ninja_rank": 458
+    },
+    "30% increased Punishment Curse Effect": {
+        "gear": "helmet",
+        "skill": "Punishment",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 229,
+        "ninja_rank": 329
+    },
+    "45% increased Punishment Duration": {
+        "gear": "helmet",
+        "skill": "Punishment",
+        "ninja_chaos": 7.47,
+        "ninja_listing_count": 158,
+        "ninja_rank": 209
+    },
+    "Purifying Flame has 30% increased Area of Effect if targeting Consecrated Ground": {
+        "gear": "helmet",
+        "skill": "Purifying Flame",
+        "ninja_chaos": 2.48,
+        "ninja_listing_count": 184,
+        "ninja_rank": 1219
+    },
+    "Consecrated Ground from Purifying Flame applies 9% increased Damage taken to Enemies": {
+        "gear": "helmet",
+        "skill": "Purifying Flame",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 236,
+        "ninja_rank": 84
+    },
+    "Purity of Elements has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Purity of Elements",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 773,
+        "ninja_rank": 124
+    },
+    "Purity of Fire has 45% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Purity of Fire",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 444,
+        "ninja_rank": 125
+    },
+    "Purity of Ice has 45% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Purity of Ice",
+        "ninja_chaos": 4.09,
+        "ninja_listing_count": 396,
+        "ninja_rank": 832
+    },
+    "Purity of Lightning has 45% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Purity of Lightning",
+        "ninja_chaos": 4.98,
+        "ninja_listing_count": 402,
+        "ninja_rank": 708
+    },
+    "15% increased Rain of Arrows Attack Speed": {
+        "gear": "helmet",
+        "skill": "Rain of Arrows",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 303,
+        "ninja_rank": 379
+    },
+    "24% increased Rain of Arrows Area of Effect": {
+        "gear": "helmet",
+        "skill": "Rain of Arrows",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 254,
+        "ninja_rank": 587
+    },
+    "Rain of Arrows has 15% chance to fire an additional sequence of arrows": {
+        "gear": "helmet",
+        "skill": "Rain of Arrows",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 412,
+        "ninja_rank": 486
+    },
+    "15% increased Rallying Cry Buff Effect": {
+        "gear": "helmet",
+        "skill": "Rallying Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 135,
+        "ninja_rank": 609
+    },
+    "Rallying Cry Exerts 1 additional Attack": {
+        "gear": "helmet",
+        "skill": "Rallying Cry",
+        "ninja_chaos": 6.12,
+        "ninja_listing_count": 234,
+        "ninja_rank": 266
+    },
+    "24% increased Reave Radius": {
+        "gear": "helmet",
+        "skill": "Reave",
+        "ninja_chaos": 8.0,
+        "ninja_listing_count": 183,
+        "ninja_rank": 194
+    },
+    "Reckoning has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Reckoning",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 151,
+        "ninja_rank": 628
+    },
+    "Gain 15% of Rejuvenation Totem Life Regeneration as extra Mana Regeneration": {
+        "gear": "helmet",
+        "skill": "Rejuvenation Totem",
+        "ninja_chaos": 7.0,
+        "ninja_listing_count": 93,
+        "ninja_rank": 234
+    },
+    "45% increased Rejuvenation Totem Aura Effect": {
+        "gear": "helmet",
+        "skill": "Rejuvenation Totem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 102,
+        "ninja_rank": 454
+    },
+    "24% increased Righteous Fire Area of Effect": {
+        "gear": "helmet",
+        "skill": "Righteous Fire",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 559,
+        "ninja_rank": 95
+    },
+    "Righteous Fire grants 30% increased Spell Damage": {
+        "gear": "helmet",
+        "skill": "Righteous Fire",
+        "ninja_chaos": 8.02,
+        "ninja_listing_count": 643,
+        "ninja_rank": 190
+    },
+    "Riposte has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Riposte",
+        "ninja_chaos": 9.93,
+        "ninja_listing_count": 132,
+        "ninja_rank": 127
+    },
+    "Scourge Arrow has 8% chance to Poison per Stage": {
+        "gear": "helmet",
+        "skill": "Scourge Arrow",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 233,
+        "ninja_rank": 79
+    },
+    "Scourge Arrow creates an additional spore pod at Maximum Stages": {
+        "gear": "helmet",
+        "skill": "Scourge Arrow",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 816,
+        "ninja_rank": 76
+    },
+    "60% increased Searing Bond Totem Placement Speed": {
+        "gear": "helmet",
+        "skill": "Searing Bond",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 116,
+        "ninja_rank": 406
+    },
+    "36% increased Searing Bond Totem Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Searing Bond",
+        "ninja_chaos": 4.69,
+        "ninja_listing_count": 85,
+        "ninja_rank": 750
+    },
+    "Attacks Exerted by Seismic Cry deal 50% increased Damage": {
+        "gear": "helmet",
+        "skill": "Seismic Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 247,
+        "ninja_rank": 683
+    },
+    "Seismic Cry has a minimum of 10 Power": {
+        "gear": "helmet",
+        "skill": "Seismic Cry",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 210,
+        "ninja_rank": 614
+    },
+    "15% increased Shield Charge Attack Speed": {
+        "gear": "helmet",
+        "skill": "Shield Charge",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 272,
+        "ninja_rank": 422
+    },
+    "Shock Nova ring deals 60% increased Damage": {
+        "gear": "helmet",
+        "skill": "Shock Nova",
+        "ninja_chaos": 7.52,
+        "ninja_listing_count": 264,
+        "ninja_rank": 205
+    },
+    "24% increased Shock Nova Area of Effect": {
+        "gear": "helmet",
+        "skill": "Shock Nova",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 150,
+        "ninja_rank": 594
+    },
+    "Sigil of Power requires 20% reduced Mana Spent to gain a Stage": {
+        "gear": "helmet",
+        "skill": "Sigil of Power",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 149,
+        "ninja_rank": 1135
+    },
+    "Sigil of Power's Buff also grants 30% increased Critical Strike Chance per Stage": {
+        "gear": "helmet",
+        "skill": "Sigil of Power",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 208,
+        "ninja_rank": 648
+    },
+    "Smite has a 15% chance for lightning to strike another target": {
+        "gear": "helmet",
+        "skill": "Smite",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 259,
+        "ninja_rank": 502
+    },
+    "Smite has 30% increased Aura Effect": {
+        "gear": "helmet",
+        "skill": "Smite",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 329,
+        "ninja_rank": 500
+    },
+    "30% increased Spectral Helix Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Spectral Helix",
+        "ninja_chaos": 5.31,
+        "ninja_listing_count": 422,
+        "ninja_rank": 305
+    },
+    "Spectral Helix Projectile spirals through +1 rotations": {
+        "gear": "helmet",
+        "skill": "Spectral Helix",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 737,
+        "ninja_rank": 110
+    },
+    "Soulrend also Hinders Enemies, with 40% reduced Movement Speed": {
+        "gear": "helmet",
+        "skill": "Soulrend",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 178,
+        "ninja_rank": 521
+    },
+    "Soulrend fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Soulrend",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 453,
+        "ninja_rank": 83
+    },
+    "Storm Brand has a 18% chance to Chain an additional time": {
+        "gear": "helmet",
+        "skill": "Storm Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 437,
+        "ninja_rank": 511
+    },
+    "Storm Brand Damage Penetrates 12% of Branded Enemy's Lightning Resistance": {
+        "gear": "helmet",
+        "skill": "Storm Brand",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 632,
+        "ninja_rank": 81
+    },
+    "24% increased Storm Burst Area of Effect": {
+        "gear": "helmet",
+        "skill": "Storm Burst",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 152,
+        "ninja_rank": 585
+    },
+    "Storm Burst has a 15% chance to create an additional Orb": {
+        "gear": "helmet",
+        "skill": "Storm Burst",
+        "ninja_chaos": 3.08,
+        "ninja_listing_count": 255,
+        "ninja_rank": 1009
+    },
+    "Sunder has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Sunder",
+        "ninja_chaos": 3.67,
+        "ninja_listing_count": 146,
+        "ninja_rank": 938
+    },
+    "Sunder has 20% reduced delay between Areas in the Wave": {
+        "gear": "helmet",
+        "skill": "Sunder",
+        "ninja_chaos": 7.4,
+        "ninja_listing_count": 118,
+        "ninja_rank": 210
+    },
+    "Hits at Close Range with Shattering Steel Fortify": {
+        "gear": "helmet",
+        "skill": "Shattering Steel",
+        "ninja_chaos": 4.32,
+        "ninja_listing_count": 350,
+        "ninja_rank": 793
+    },
+    "Shattering Steel has 30% chance to not consume Steel Shards": {
+        "gear": "helmet",
+        "skill": "Shattering Steel",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 286,
+        "ninja_rank": 643
+    },
+    "15% increased Shockwave Totem Cast Speed": {
+        "gear": "helmet",
+        "skill": "Shockwave Totem",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 132,
+        "ninja_rank": 858
+    },
+    "24% increased Shockwave Totem Area of Effect": {
+        "gear": "helmet",
+        "skill": "Shockwave Totem",
+        "ninja_chaos": 8.78,
+        "ninja_listing_count": 137,
+        "ninja_rank": 171
+    },
+    "Explosive Trap has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Explosive Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 215,
+        "ninja_rank": 591
+    },
+    "Explosive Trap causes 2 additional smaller explosions": {
+        "gear": "helmet",
+        "skill": "Explosive Trap",
+        "ninja_chaos": 5.78,
+        "ninja_listing_count": 359,
+        "ninja_rank": 281
+    },
+    "15% of Galvanic Arrow Physical Damage gained as extra Lightning Damage": {
+        "gear": "helmet",
+        "skill": "Explosive Trap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 249,
+        "ninja_rank": 559
+    },
+    "Splitting Steel has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Splitting Steel",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 230,
+        "ninja_rank": 646
+    },
+    "Splitting Steel has 30% chance to not consume Steel Shards": {
+        "gear": "helmet",
+        "skill": "Splitting Steel",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 272,
+        "ninja_rank": 637
+    },
+    "Galvanic Arrow has 30% increased Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Galvanic Arrow",
+        "ninja_chaos": 6.3,
+        "ninja_listing_count": 217,
+        "ninja_rank": 256
+    },
+    "Siege Ballista has 15% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Siege Ballista",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 288,
+        "ninja_rank": 558
+    },
+    "Siege Ballista has 45% increased Totem Placement Speed": {
+        "gear": "helmet",
+        "skill": "Siege Ballista",
+        "ninja_chaos": 5.7,
+        "ninja_listing_count": 178,
+        "ninja_rank": 286
+    },
+    "30% increased Essence Drain Duration": {
+        "gear": "helmet",
+        "skill": "Essence Drain",
+        "ninja_chaos": 9.06,
+        "ninja_listing_count": 290,
+        "ninja_rank": 159
+    },
+    "30% increased Smoke Mine Duration": {
+        "gear": "helmet",
+        "skill": "Smoke Mine",
+        "ninja_chaos": 6.1,
+        "ninja_listing_count": 137,
+        "ninja_rank": 268
+    },
+    "Smoke Mine grants additional 30% increased Movement Speed": {
+        "gear": "helmet",
+        "skill": "Smoke Mine",
+        "ninja_chaos": 9.27,
+        "ninja_listing_count": 268,
+        "ninja_rank": 150
+    },
+    "30% increased Soul Link Duration": {
+        "gear": "helmet",
+        "skill": "Soul Link",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 164,
+        "ninja_rank": 703
+    },
+    "Spark fires 3 additional Projectiles": {
+        "gear": "helmet",
+        "skill": "Spark",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 850,
+        "ninja_rank": 62
+    },
+    "30% increased Spark Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Spark",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 309,
+        "ninja_rank": 352
+    },
+    "30% increased Spectral Shield Throw Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Spectral Shield Throw",
+        "ninja_chaos": 7.04,
+        "ninja_listing_count": 296,
+        "ninja_rank": 228
+    },
+    "Spectral Shield Throw fires 3 additional Shard Projectiles": {
+        "gear": "helmet",
+        "skill": "Spectral Shield Throw",
+        "ninja_chaos": 20.0,
+        "ninja_listing_count": 956,
+        "ninja_rank": 15
+    },
+    "30% reduced Spectral Throw Projectile Deceleration": {
+        "gear": "helmet",
+        "skill": "Spectral Throw",
+        "ninja_chaos": 5.02,
+        "ninja_listing_count": 198,
+        "ninja_rank": 323
+    },
+    "30% increased Spectral Throw Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Spectral Throw",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 228,
+        "ninja_rank": 413
+    },
+    "Spectres have 12% increased Attack and Cast Speed": {
+        "gear": "helmet",
+        "skill": "Summon Raise Spectre",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 659,
+        "ninja_rank": 386
+    },
+    "+36% to Raised Spectre Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Raise Spectre",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 235,
+        "ninja_rank": 381
+    },
+    "90% increased Split Arrow Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Split Arrow",
+        "ninja_chaos": 9.15,
+        "ninja_listing_count": 262,
+        "ninja_rank": 156
+    },
+    "Split Arrow fires 3 additional Projectiles": {
+        "gear": "helmet",
+        "skill": "Split Arrow",
+        "ninja_chaos": 7.32,
+        "ninja_listing_count": 579,
+        "ninja_rank": 214
+    },
+    "45% increased Static Strike Duration": {
+        "gear": "helmet",
+        "skill": "Static Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 164,
+        "ninja_rank": 504
+    },
+    "24% increased Static Strike Area of Effect": {
+        "gear": "helmet",
+        "skill": "Static Strike",
+        "ninja_chaos": 4.73,
+        "ninja_listing_count": 114,
+        "ninja_rank": 745
+    },
+    "Static Strike has +2 maximum Beam Targets": {
+        "gear": "helmet",
+        "skill": "Static Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 256,
+        "ninja_rank": 503
+    },
+    "+36% to Stone Golem Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Stone Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 144,
+        "ninja_rank": 415
+    },
+    "150% increased Effect of the Buff granted by your Stone Golems": {
+        "gear": "helmet",
+        "skill": "Summon Stone Golem",
+        "ninja_chaos": 9.76,
+        "ninja_listing_count": 540,
+        "ninja_rank": 130
+    },
+    "30% reduced Storm Call Duration": {
+        "gear": "helmet",
+        "skill": "Storm Call",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 199,
+        "ninja_rank": 69
+    },
+    "24% increased Storm Call Area of Effect": {
+        "gear": "helmet",
+        "skill": "Storm Call",
+        "ninja_chaos": 4.23,
+        "ninja_listing_count": 116,
+        "ninja_rank": 807
+    },
+    "90% increased Orb of Storms Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Orb of Storms",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 204,
+        "ninja_rank": 391
+    },
+    "24% increased Orb of Storms Area of Effect": {
+        "gear": "helmet",
+        "skill": "Orb of Storms",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 126,
+        "ninja_rank": 597
+    },
+    "40% chance to Summon an additional Skeleton Warrior with Summon Skeleton": {
+        "gear": "helmet",
+        "skill": "Summon Skeletons",
+        "ninja_chaos": 6.64,
+        "ninja_listing_count": 508,
+        "ninja_rank": 249
+    },
+    "Sweep has a 30% chance to grant an Endurance Charge on Hit": {
+        "gear": "helmet",
+        "skill": "Sweep",
+        "ninja_chaos": 7.0,
+        "ninja_listing_count": 191,
+        "ninja_rank": 236
+    },
+    "24% increased Sweep Area of Effect": {
+        "gear": "helmet",
+        "skill": "Sweep",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 188,
+        "ninja_rank": 577
+    },
+    "Tectonic Slam has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Tectonic Slam",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 189,
+        "ninja_rank": 610
+    },
+    "Tectonic Slam has +20% fissure branching chance": {
+        "gear": "helmet",
+        "skill": "Tectonic Slam",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 250,
+        "ninja_rank": 608
+    },
+    "Tempest Shield chains an additional 3 times": {
+        "gear": "helmet",
+        "skill": "Tempest Shield",
+        "ninja_chaos": 5.16,
+        "ninja_listing_count": 261,
+        "ninja_rank": 314
+    },
+    "30% increased Temporal Chains Curse Effect": {
+        "gear": "helmet",
+        "skill": "Temporal Chains",
+        "ninja_chaos": 10.4,
+        "ninja_listing_count": 512,
+        "ninja_rank": 44
+    },
+    "45% increased Temporal Chains Duration": {
+        "gear": "helmet",
+        "skill": "Temporal Chains",
+        "ninja_chaos": 5.38,
+        "ninja_listing_count": 230,
+        "ninja_rank": 300
+    },
+    "Temporal Rift has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Temporal Rift",
+        "ninja_chaos": 7.19,
+        "ninja_listing_count": 176,
+        "ninja_rank": 221
+    },
+    "24% increased Tornado Area of Effect": {
+        "gear": "helmet",
+        "skill": "Tornado",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 286,
+        "ninja_rank": 701
+    },
+    "Tornado has 30% increased Movement Speed": {
+        "gear": "helmet",
+        "skill": "Tornado",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 315,
+        "ninja_rank": 1160
+    },
+    "90% increased Tornado Shot Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Tornado",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 522,
+        "ninja_rank": 355
+    },
+    "Tornado Shot fires an additional secondary Projectile": {
+        "gear": "helmet",
+        "skill": "Tornado",
+        "ninja_chaos": 30.0,
+        "ninja_listing_count": 1852,
+        "ninja_rank": 4
+    },
+    "Toxic Rain gains 10% of Physical Damage as Extra Chaos Damage": {
+        "gear": "helmet",
+        "skill": "Toxic Rain",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 666,
+        "ninja_rank": 77
+    },
+    "Toxic Rain fires 1 additional Arrow": {
+        "gear": "helmet",
+        "skill": "Toxic Rain",
+        "ninja_chaos": 20.0,
+        "ninja_listing_count": 1634,
+        "ninja_rank": 16
+    },
+    "30% increased Vampiric Link Duration": {
+        "gear": "helmet",
+        "skill": "Vampiric Link",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 139,
+        "ninja_rank": 1162
+    },
+    "Vengeance has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Vengeance",
+        "ninja_chaos": 6.3,
+        "ninja_listing_count": 346,
+        "ninja_rank": 257
+    },
+    "Vigilant Strike has 45% increased Fortification Duration": {
+        "gear": "helmet",
+        "skill": "Vigilant Strike",
+        "ninja_chaos": 5.21,
+        "ninja_listing_count": 134,
+        "ninja_rank": 312
+    },
+    "90% increased Viper Strike Critical Strike Chance": {
+        "gear": "helmet",
+        "skill": "Viper Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 200,
+        "ninja_rank": 421
+    },
+    "30% increased Viper Strike Duration": {
+        "gear": "helmet",
+        "skill": "Viper Strike",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 163,
+        "ninja_rank": 1033
+    },
+    "Vitality has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Vitality",
+        "ninja_chaos": 8.67,
+        "ninja_listing_count": 555,
+        "ninja_rank": 172
+    },
+    "Void Sphere has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Void Sphere",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 187,
+        "ninja_rank": 645
+    },
+    "Enemies in Void Sphere's range take up to 10% increased Damage, based on distance from the Void Sphere": {
+        "gear": "helmet",
+        "skill": "Void Sphere",
+        "ninja_chaos": 5.12,
+        "ninja_listing_count": 229,
+        "ninja_rank": 320
+    },
+    "Void Sphere has 18% increased Pulse Frequency": {
+        "gear": "helmet",
+        "skill": "Void Sphere",
+        "ninja_chaos": 4.82,
+        "ninja_listing_count": 193,
+        "ninja_rank": 731
+    },
+    "24% increased Voltaxic Burst Area of Effect": {
+        "gear": "helmet",
+        "skill": "Voltaxic Burst",
+        "ninja_chaos": 5.87,
+        "ninja_listing_count": 161,
+        "ninja_rank": 280
+    },
+    "Voltaxic Burst deals 3% increased Damage per 0.1 seconds of Duration": {
+        "gear": "helmet",
+        "skill": "Voltaxic Burst",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 199,
+        "ninja_rank": 1152
+    },
+    "30% increased Vortex Duration": {
+        "gear": "helmet",
+        "skill": "Vortex",
+        "ninja_chaos": 9.17,
+        "ninja_listing_count": 304,
+        "ninja_rank": 154
+    },
+    "Vortex has 45% increased Area of Effect when Cast on Frostbolt": {
+        "gear": "helmet",
+        "skill": "Vortex",
+        "ninja_chaos": 5.21,
+        "ninja_listing_count": 264,
+        "ninja_rank": 311
+    },
+    "Vortex has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Vortex",
+        "ninja_chaos": 5.6,
+        "ninja_listing_count": 325,
+        "ninja_rank": 290
+    },
+    "30% increased Vulnerability Curse Effect": {
+        "gear": "helmet",
+        "skill": "Vulnerability",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 450,
+        "ninja_rank": 354
+    },
+    "45% increased Vulnerability Duration": {
+        "gear": "helmet",
+        "skill": "Vulnerability",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 177,
+        "ninja_rank": 1038
+    },
+    "Hydrosphere has 30% increased Pulse Frequency": {
+        "gear": "helmet",
+        "skill": "Hydrosphere",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 294,
+        "ninja_rank": 655
+    },
+    "Enemies Drenched by Hydrosphere have Cold and Lightning Exposure, applying -6% to Resistances": {
+        "gear": "helmet",
+        "skill": "Hydrosphere",
+        "ninja_chaos": 6.72,
+        "ninja_listing_count": 425,
+        "ninja_rank": 243
+    },
+    "War Banner has 40% increased Aura Effect": {
+        "gear": "helmet",
+        "skill": "War Banner",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 339,
+        "ninja_rank": 82
+    },
+    "30% increased Warlord's Mark Curse Effect": {
+        "gear": "helmet",
+        "skill": "Warlord's Mark",
+        "ninja_chaos": 8.86,
+        "ninja_listing_count": 226,
+        "ninja_rank": 167
+    },
+    "45% increased Warlord's Mark Duration": {
+        "gear": "helmet",
+        "skill": "Warlord's Mark",
+        "ninja_chaos": 7.13,
+        "ninja_listing_count": 168,
+        "ninja_rank": 223
+    },
+    "Wave of Conviction's Exposure applies -6% Elemental Resistance": {
+        "gear": "helmet",
+        "skill": "Wave of Conviction",
+        "ninja_chaos": 5.01,
+        "ninja_listing_count": 397,
+        "ninja_rank": 325
+    },
+    "Wave of Conviction has 30% increased Duration": {
+        "gear": "helmet",
+        "skill": "Wave of Conviction",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 199,
+        "ninja_rank": 523
+    },
+    "15% increased Whirling Blades Attack Speed": {
+        "gear": "helmet",
+        "skill": "Whirling Blades",
+        "ninja_chaos": 3.8,
+        "ninja_listing_count": 195,
+        "ninja_rank": 922
+    },
+    "Wild Strike's Beam Chains an additional 6 times": {
+        "gear": "helmet",
+        "skill": "Wild Strike",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 455,
+        "ninja_rank": 91
+    },
+    "36% increased Wild Strike Area of Effect": {
+        "gear": "helmet",
+        "skill": "Wild Strike",
+        "ninja_chaos": 4.55,
+        "ninja_listing_count": 182,
+        "ninja_rank": 769
+    },
+    "Winter Orb has +2 Maximum Stages": {
+        "gear": "helmet",
+        "skill": "Winter Orb",
+        "ninja_chaos": 8.51,
+        "ninja_listing_count": 793,
+        "ninja_rank": 182
+    },
+    "Winter Orb has 3% increased Area of Effect per Stage": {
+        "gear": "helmet",
+        "skill": "Winter Orb",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 311,
+        "ninja_rank": 512
+    },
+    "Wither has 36% increased Duration": {
+        "gear": "helmet",
+        "skill": "Wither",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 283,
+        "ninja_rank": 872
+    },
+    "Wither has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Wither",
+        "ninja_chaos": 5.08,
+        "ninja_listing_count": 232,
+        "ninja_rank": 321
+    },
+    "Wrath has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Wrath",
+        "ninja_chaos": 6.28,
+        "ninja_listing_count": 773,
+        "ninja_rank": 261
+    },
+    "Raised Zombies have 15% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Summon Raised Zombie",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 477,
+        "ninja_rank": 86
+    },
+    "Raised Zombies have +36% to Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Raised Zombie",
+        "ninja_chaos": 5.76,
+        "ninja_listing_count": 194,
+        "ninja_rank": 282
+    },
+    "Zealotry has 30% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Zealotry",
+        "ninja_chaos": 13.06,
+        "ninja_listing_count": 830,
+        "ninja_rank": 40
+    },
+    "Volatile Dead Consumes up to 1 additional corpse": {
+        "gear": "helmet",
+        "skill": "Volatile Dead",
+        "ninja_chaos": 10.09,
+        "ninja_listing_count": 844,
+        "ninja_rank": 45
+    },
+    "40% increased Volatile Dead Damage": {
+        "gear": "helmet",
+        "skill": "Volatile Dead",
+        "ninja_chaos": 9.45,
+        "ninja_listing_count": 594,
+        "ninja_rank": 143
+    },
+    "12% increased Volatile Dead Cast Speed": {
+        "gear": "helmet",
+        "skill": "Volatile Dead",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 231,
+        "ninja_rank": 395
+    },
+    "Unearth Spawns corpses with +5 Level": {
+        "gear": "helmet",
+        "skill": "Unearth",
+        "ninja_chaos": 16.32,
+        "ninja_listing_count": 331,
+        "ninja_rank": 22
+    },
+    "40% increased Unearth Damage": {
+        "gear": "helmet",
+        "skill": "Unearth",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 208,
+        "ninja_rank": 412
+    },
+    "12% increased Unearth Cast Speed": {
+        "gear": "helmet",
+        "skill": "Unearth",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 103,
+        "ninja_rank": 1037
+    },
+    "Cremation can have up to 1 additional Geyser at a time": {
+        "gear": "helmet",
+        "skill": "Cremation",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 409,
+        "ninja_rank": 401
+    },
+    "40% increased Cremation Damage": {
+        "gear": "helmet",
+        "skill": "Cremation",
+        "ninja_chaos": 4.65,
+        "ninja_listing_count": 270,
+        "ninja_rank": 758
+    },
+    "12% increased Cremation Cast Speed": {
+        "gear": "helmet",
+        "skill": "Cremation",
+        "ninja_chaos": 4.33,
+        "ninja_listing_count": 170,
+        "ninja_rank": 791
+    },
+    "40% increased Bodyswap Damage": {
+        "gear": "helmet",
+        "skill": "Bodyswap",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 131,
+        "ninja_rank": 328
+    },
+    "12% increased Bodyswap Cast Speed": {
+        "gear": "helmet",
+        "skill": "Bodyswap",
+        "ninja_chaos": 6.89,
+        "ninja_listing_count": 108,
+        "ninja_rank": 238
+    },
+    "Steelskin grants 12% additional Physical Damage Reduction": {
+        "gear": "helmet",
+        "skill": "Steelskin",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 311,
+        "ninja_rank": 534
+    },
+    "Steelskin Buff can take 45% increased amount of Damage": {
+        "gear": "helmet",
+        "skill": "Steelskin",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 303,
+        "ninja_rank": 536
+    },
+    "Dash travels 100% increased distance": {
+        "gear": "helmet",
+        "skill": "Dash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 327,
+        "ninja_rank": 533
+    },
+    "Dash has +2 Cooldown Uses": {
+        "gear": "helmet",
+        "skill": "Dash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 443,
+        "ninja_rank": 599
+    },
+    "+1 to maximum number of Bladestorms": {
+        "gear": "helmet",
+        "skill": "Bladestorm",
+        "ninja_chaos": 6.7,
+        "ninja_listing_count": 504,
+        "ninja_rank": 244
+    },
+    "Sand Bladestorms move with 75% increased speed": {
+        "gear": "helmet",
+        "skill": "Bladestorm",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 211,
+        "ninja_rank": 539
+    },
+    "Bladestorm deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Bladestorm",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 360,
+        "ninja_rank": 535
+    },
+    "Blood and Sand has 40% increased Buff Effect": {
+        "gear": "helmet",
+        "skill": "Blood and Sand",
+        "ninja_chaos": 8.0,
+        "ninja_listing_count": 582,
+        "ninja_rank": 192
+    },
+    "Perforate creates +2 Spikes": {
+        "gear": "helmet",
+        "skill": "Perforate",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 361,
+        "ninja_rank": 532
+    },
+    "Perforate has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Perforate",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 146,
+        "ninja_rank": 589
+    },
+    "Perforate deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Perforate",
+        "ninja_chaos": 4.74,
+        "ninja_listing_count": 245,
+        "ninja_rank": 743
+    },
+    "Frostblink has 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Frostblink",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 130,
+        "ninja_rank": 632
+    },
+    "Frostblink has 75% increased maximum travel distance": {
+        "gear": "helmet",
+        "skill": "Frostblink",
+        "ninja_chaos": 4.0,
+        "ninja_listing_count": 158,
+        "ninja_rank": 882
+    },
+    "Flesh and Stone has 75% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Flesh and Stone",
+        "ninja_chaos": 15.0,
+        "ninja_listing_count": 698,
+        "ninja_rank": 32
+    },
+    "Chain Hook has a 40% chance to grant +1 Rage if it Hits Enemies": {
+        "gear": "helmet",
+        "skill": "Chain Hook",
+        "ninja_chaos": 5.29,
+        "ninja_listing_count": 131,
+        "ninja_rank": 306
+    },
+    "Chain Hook has +1 Radius per 12 Rage": {
+        "gear": "helmet",
+        "skill": "Chain Hook",
+        "ninja_chaos": 7.49,
+        "ninja_listing_count": 129,
+        "ninja_rank": 207
+    },
+    "Chain Hook deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Chain Hook",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 145,
+        "ninja_rank": 537
+    },
+    "Berserk has 40% reduced Rage loss per second": {
+        "gear": "helmet",
+        "skill": "Berserk",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 517,
+        "ninja_rank": 87
+    },
+    "Berserk has 30% increased Buff Effect": {
+        "gear": "helmet",
+        "skill": "Berserk",
+        "ninja_chaos": 30.0,
+        "ninja_listing_count": 913,
+        "ninja_rank": 6
+    },
+    "Stormblast Mine deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Stormblast Mine",
+        "ninja_chaos": 4.92,
+        "ninja_listing_count": 260,
+        "ninja_rank": 714
+    },
+    "Stormblast Mine has 15% increased Throwing Speed": {
+        "gear": "helmet",
+        "skill": "Stormblast Mine",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 147,
+        "ninja_rank": 547
+    },
+    "Stormblast Mine has 40% increased Aura Effect": {
+        "gear": "helmet",
+        "skill": "Stormblast Mine",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 192,
+        "ninja_rank": 548
+    },
+    "Icicle Mine deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Icicle Mine",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 419,
+        "ninja_rank": 554
+    },
+    "Icicle Mine has 15% increased Throwing Speed": {
+        "gear": "helmet",
+        "skill": "Icicle Mine",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 217,
+        "ninja_rank": 90
+    },
+    "Icicle Mine has +30% to Critical Strike Multiplier": {
+        "gear": "helmet",
+        "skill": "Icicle Mine",
+        "ninja_chaos": 8.16,
+        "ninja_listing_count": 452,
+        "ninja_rank": 188
+    },
+    "Pyroclast Mine deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Pyroclast Mine",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 262,
+        "ninja_rank": 546
+    },
+    "Pyroclast Mine has 15% increased Throwing Speed": {
+        "gear": "helmet",
+        "skill": "Pyroclast Mine",
+        "ninja_chaos": 4.18,
+        "ninja_listing_count": 145,
+        "ninja_rank": 815
+    },
+    "Pyroclast Mine fires an additional Projectile": {
+        "gear": "helmet",
+        "skill": "Pyroclast Mine",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 408,
+        "ninja_rank": 88
+    },
+    "Cobra Lash deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Cobra Lash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 259,
+        "ninja_rank": 555
+    },
+    "Cobra Lash has 30% increased Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Cobra Lash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 198,
+        "ninja_rank": 556
+    },
+    "Cobra Lash Chains 3 additional times": {
+        "gear": "helmet",
+        "skill": "Cobra Lash",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 392,
+        "ninja_rank": 552
+    },
+    "Withering Step inflicts 3 additional Withered Debuffs": {
+        "gear": "helmet",
+        "skill": "Withering Step",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 568,
+        "ninja_rank": 550
+    },
+    "Withering Step has 30% increased Elusive Effect": {
+        "gear": "helmet",
+        "skill": "Withering Step",
+        "ninja_chaos": 6.65,
+        "ninja_listing_count": 345,
+        "ninja_rank": 248
+    },
+    "Venom Gyre deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Venom Gyre",
+        "ninja_chaos": 9.38,
+        "ninja_listing_count": 251,
+        "ninja_rank": 146
+    },
+    "Venom Gyre has a 20% chance to inflict Withered for 2 seconds on Hit": {
+        "gear": "helmet",
+        "skill": "Venom Gyre",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 198,
+        "ninja_rank": 553
+    },
+    "Venom Gyre has a 25% chance to keep caught Projectiles fired by using Whirling Blades": {
+        "gear": "helmet",
+        "skill": "Venom Gyre",
+        "ninja_chaos": 9.1,
+        "ninja_listing_count": 175,
+        "ninja_rank": 158
+    },
+    "Plague Bearer Buff grants +20% to Poison Damage over Time Multiplier while Infecting": {
+        "gear": "helmet",
+        "skill": "Plague Bearer",
+        "ninja_chaos": 7.33,
+        "ninja_listing_count": 601,
+        "ninja_rank": 213
+    },
+    "Plague Bearer deals Damage based on an additional 5% of Plague Value": {
+        "gear": "helmet",
+        "skill": "Plague Bearer",
+        "ninja_chaos": 6.23,
+        "ninja_listing_count": 498,
+        "ninja_rank": 263
+    },
+    "Pestilent Strike deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Pestilent Strike",
+        "ninja_chaos": 4.14,
+        "ninja_listing_count": 233,
+        "ninja_rank": 821
+    },
+    "Pestilent Strike has 40% increased Duration": {
+        "gear": "helmet",
+        "skill": "Pestilent Strike",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 192,
+        "ninja_rank": 551
+    },
+    "Pestilent Strike has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Pestilent Strike",
+        "ninja_chaos": 4.32,
+        "ninja_listing_count": 178,
+        "ninja_rank": 792
+    },
+    "Summoned Carrion Golems deal 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Carrion Golem",
+        "ninja_chaos": 20.0,
+        "ninja_listing_count": 988,
+        "ninja_rank": 17
+    },
+    "150% increased Effect of the Buff granted by your Carrion Golems": {
+        "gear": "helmet",
+        "skill": "Summon Carrion Golem",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 724,
+        "ninja_rank": 89
+    },
+    "Summoned Carrion Golems have +36% to all Elemental Resistances": {
+        "gear": "helmet",
+        "skill": "Summon Carrion Golem",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 237,
+        "ninja_rank": 549
+    },
+    "Summoned Skitterbots have 90% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Summon Skitterbots",
+        "ninja_chaos": 7.0,
+        "ninja_listing_count": 349,
+        "ninja_rank": 235
+    },
+    "Summon Skitterbots has 45% increased Mana Reservation Efficiency": {
+        "gear": "helmet",
+        "skill": "Summon Skitterbots",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 731,
+        "ninja_rank": 121
+    },
+    "Artillery Ballista Damage Penetrates 10% Fire Resistance": {
+        "gear": "helmet",
+        "skill": "Artillery Ballista",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 198,
+        "ninja_rank": 581
+    },
+    "Artillery Ballista fires 2 additional Arrows": {
+        "gear": "helmet",
+        "skill": "Artillery Ballista",
+        "ninja_chaos": 8.52,
+        "ninja_listing_count": 433,
+        "ninja_rank": 181
+    },
+    "Artillery Ballista Projectiles fall in two perpendicular lines instead": {
+        "gear": "helmet",
+        "skill": "Artillery Ballista",
+        "ninja_chaos": 4.05,
+        "ninja_listing_count": 269,
+        "ninja_rank": 836
+    },
+    "Shrapnel Ballista fires an additional Arrow": {
+        "gear": "helmet",
+        "skill": "Shrapnel Ballista",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 393,
+        "ninja_rank": 93
+    },
+    "Shrapnel Ballista Pierces 6 additional Targets": {
+        "gear": "helmet",
+        "skill": "Shrapnel Ballista",
+        "ninja_chaos": 6.62,
+        "ninja_listing_count": 318,
+        "ninja_rank": 250
+    },
+    "Shrapnel Ballista has 30% increased Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Shrapnel Ballista",
+        "ninja_chaos": 5.19,
+        "ninja_listing_count": 194,
+        "ninja_rank": 313
+    },
+    "Kinetic Bolt has 15% increased Attack Speed": {
+        "gear": "helmet",
+        "skill": "Kinetic Bolt",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 314,
+        "ninja_rank": 603
+    },
+    "Kinetic Bolt has 30% increased Projectile Speed": {
+        "gear": "helmet",
+        "skill": "Kinetic Bolt",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 274,
+        "ninja_rank": 600
+    },
+    "Kinetic Bolt changes direction 2 additional times": {
+        "gear": "helmet",
+        "skill": "Kinetic Bolt",
+        "ninja_chaos": 5.45,
+        "ninja_listing_count": 478,
+        "ninja_rank": 297
+    },
+    "Blade Blast has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Blade Blast",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 311,
+        "ninja_rank": 604
+    },
+    "Blade Blast detonates other Lingering Blades within an 75% increased Area": {
+        "gear": "helmet",
+        "skill": "Blade Blast",
+        "ninja_chaos": 3.0,
+        "ninja_listing_count": 369,
+        "ninja_rank": 1119
+    },
+    "Blade Blast deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Blade Blast",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 458,
+        "ninja_rank": 605
+    },
+    "Stormbind has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Stormbind",
+        "ninja_chaos": 3.32,
+        "ninja_listing_count": 134,
+        "ninja_rank": 981
+    },
+    "Stormbind deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Stormbind",
+        "ninja_chaos": 2.0,
+        "ninja_listing_count": 233,
+        "ninja_rank": 1289
+    },
+    "Rune Blast teleports you to the detonated Rune if you have not detonated Runes in the past 1.5 seconds": {
+        "gear": "helmet",
+        "skill": "Stormbind",
+        "ninja_chaos": 2.49,
+        "ninja_listing_count": 157,
+        "ninja_rank": 1217
+    },
+    "30% increased Mana Reservation Efficiency of Skills Supported by Spellslinger": {
+        "gear": "helmet",
+        "skill": "Spellslinger",
+        "ninja_chaos": 15.0,
+        "ninja_listing_count": 912,
+        "ninja_rank": 29
+    },
+    "Skills Supported by Spellslinger have 30% increased Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Spellslinger",
+        "ninja_chaos": 13.92,
+        "ninja_listing_count": 839,
+        "ninja_rank": 39
+    },
+    "Wintertide Brand deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Wintertide Brand",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 288,
+        "ninja_rank": 98
+    },
+    "Wintertide Brand has +4 to maximum Stages": {
+        "gear": "helmet",
+        "skill": "Wintertide Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 397,
+        "ninja_rank": 616
+    },
+    "Wintertide Brand has 40% increased Chill Effect": {
+        "gear": "helmet",
+        "skill": "Wintertide Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 199,
+        "ninja_rank": 619
+    },
+    "Penance Brand deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Penance Brand",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 380,
+        "ninja_rank": 97
+    },
+    "Penance Brand has 12% increased Cast Speed": {
+        "gear": "helmet",
+        "skill": "Penance Brand",
+        "ninja_chaos": 5.74,
+        "ninja_listing_count": 256,
+        "ninja_rank": 284
+    },
+    "Penance Brand has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Penance Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 232,
+        "ninja_rank": 623
+    },
+    "Earthshatter deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Earthshatter",
+        "ninja_chaos": 5.38,
+        "ninja_listing_count": 366,
+        "ninja_rank": 302
+    },
+    "Earthshatter has 24% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Earthshatter",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 216,
+        "ninja_rank": 615
+    },
+    "Earthshatter creates +1 fissures": {
+        "gear": "helmet",
+        "skill": "Earthshatter",
+        "ninja_chaos": 6.55,
+        "ninja_listing_count": 458,
+        "ninja_rank": 253
+    },
+    "Arcanist Brand has 12% increased Cast Speed": {
+        "gear": "helmet",
+        "skill": "Arcanist Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 232,
+        "ninja_rank": 618
+    },
+    "Spells Triggered by Arcanist Brand Unnerve enemies on Hit for 4 seconds": {
+        "gear": "helmet",
+        "skill": "Arcanist Brand",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 336,
+        "ninja_rank": 620
+    },
+    "Defiance Banner has 40% increased Aura Effect": {
+        "gear": "helmet",
+        "skill": "Defiance Banner",
+        "ninja_chaos": 9.43,
+        "ninja_listing_count": 486,
+        "ninja_rank": 144
+    },
+    "40% increased Storm Rain Damage": {
+        "gear": "helmet",
+        "skill": "Storm Rain",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 274,
+        "ninja_rank": 677
+    },
+    "Storm Rain has 40% increased Beam frequency": {
+        "gear": "helmet",
+        "skill": "Storm Rain",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 305,
+        "ninja_rank": 671
+    },
+    "Storm Rain fires an additional Arrow": {
+        "gear": "helmet",
+        "skill": "Storm Rain",
+        "ninja_chaos": 9.59,
+        "ninja_listing_count": 447,
+        "ninja_rank": 139
+    },
+    "40% increased Rage Vortex Damage": {
+        "gear": "helmet",
+        "skill": "Rage Vortex",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 393,
+        "ninja_rank": 666
+    },
+    "24% increased Rage Vortex Area of Effect": {
+        "gear": "helmet",
+        "skill": "Rage Vortex",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 275,
+        "ninja_rank": 109
+    },
+    "Rage Vortex Sacrifices +5% of Rage": {
+        "gear": "helmet",
+        "skill": "Rage Vortex",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 493,
+        "ninja_rank": 115
+    },
+    "40% increased Shield Crush Damage": {
+        "gear": "helmet",
+        "skill": "Shield Crush",
+        "ninja_chaos": 14.31,
+        "ninja_listing_count": 491,
+        "ninja_rank": 36
+    },
+    "15% increased Shield Crush Attack Speed": {
+        "gear": "helmet",
+        "skill": "Shield Crush",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 394,
+        "ninja_rank": 676
+    },
+    "Shield Crush central wave has 24% more Area of Effect": {
+        "gear": "helmet",
+        "skill": "Shield Crush",
+        "ninja_chaos": 6.7,
+        "ninja_listing_count": 327,
+        "ninja_rank": 245
+    },
+    "Summoned Reaper deals 40% increased Damage": {
+        "gear": "helmet",
+        "skill": "Summon Reaper",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 431,
+        "ninja_rank": 664
+    },
+    "Summoned Reaper has +20% to Physical Damage over Time Multiplier": {
+        "gear": "helmet",
+        "skill": "Summon Reaper",
+        "ninja_chaos": 9.93,
+        "ninja_listing_count": 386,
+        "ninja_rank": 128
+    },
+    "30% increased Summon Reaper Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Summon Reaper",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 280,
+        "ninja_rank": 113
+    },
+    "40% increased Boneshatter Damage": {
+        "gear": "helmet",
+        "skill": "Boneshatter",
+        "ninja_chaos": 10.0,
+        "ninja_listing_count": 453,
+        "ninja_rank": 114
+    },
+    "40% increased Boneshatter Stun Duration": {
+        "gear": "helmet",
+        "skill": "Boneshatter",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 230,
+        "ninja_rank": 678
+    },
+    "Boneshatter has 24% chance to grant +1 Trauma": {
+        "gear": "helmet",
+        "skill": "Boneshatter",
+        "ninja_chaos": 100.0,
+        "ninja_listing_count": 518,
+        "ninja_rank": 0
+    },
+    "30% increased Ambush Cooldown Recovery Rate": {
+        "gear": "helmet",
+        "skill": "Ambush",
+        "ninja_chaos": 4.26,
+        "ninja_listing_count": 148,
+        "ninja_rank": 802
+    },
+    "Attacks Exerted by Ambush have +40% to Critical Strike Multiplier": {
+        "gear": "helmet",
+        "skill": "Ambush",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 221,
+        "ninja_rank": 675
+    },
+    "Ensnaring Arrow has 30% increased Debuff Effect": {
+        "gear": "helmet",
+        "skill": "Ensnaring Arrow",
+        "ninja_chaos": 4.73,
+        "ninja_listing_count": 161,
+        "ninja_rank": 746
+    },
+    "Ensnaring Arrow has 90% increased Area of Effect": {
+        "gear": "helmet",
+        "skill": "Ensnaring Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 167,
+        "ninja_rank": 584
+    },
+    "Explosive Arrow has 40% increased Duration": {
+        "gear": "helmet",
+        "skill": "Explosive Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 114,
+        "ninja_rank": 573
+    },
+    "Explosive Arrow has 30% reduced Duration": {
+        "gear": "helmet",
+        "skill": "Explosive Arrow",
+        "ninja_chaos": 5.0,
+        "ninja_listing_count": 122,
+        "ninja_rank": 586
+    },
+    "Adds 45 to 68 Fire Damage if you've Killed Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "Regenerate 2% of Life per second if you were Hit Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "18% reduced Mana Cost of Skills if you've been Hit Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "80% chance to Avoid being Stunned if you've Killed Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "+8% chance to Suppress Spell Damage if you'vetaken Spell Damage Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "16% increased Attack and Cast Speed if you've Killed Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "Adds 45 to 68 Cold Damage if you've been Hit Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "Adds 1 to 160 Lightning Damage if you haven't Killed Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "0.6% of Damage Leeched as Life if you've Killed Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "You take 10% reduced Extra Damage from Critical Strikes if you've taken a Critical Strike Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "10% chance to Freeze, Shock and Ignite if you haven't Crit Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "10% increased Movement Speed if you haven't been Hit Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "120% increased Critical Strike Chance if you haven't Crit Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "Damage Penetrates 10% of Enemy Elemental Resistances if you haven't Killed Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "Adds 120 to 180 Chaos Damage if you've taken a Critical Strike Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "35% increased Mana Regeneration Rate if you've cast a Spell Recently": {
+        "gear": "boots",
+        "skill": null
+    },
+    "Trigger Commandment of Blades on Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Flames on Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Frost on Kill": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of the Grave when your Skills or Minions Kill": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Reflection when Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Force on Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Light when you take a Critical Strike": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Thunder on Kill": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of War on Kill": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Inferno on Kill": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Winter when Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of the Tempest on Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Fury on Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Spite when Hit": {
+        "gear": "gloves",
+        "skill": null
+    },
+    "Trigger Commandment of Ire when Hit": {
+        "gear": "gloves",
+        "skill": null
+    }
+}
