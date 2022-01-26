@@ -2,41 +2,40 @@ import pytesseract
 from PIL import Image
 import json
 import pyautogui
-import urllib.request
-from bs4 import BeautifulSoup
+from data import Aggregated, Config
 
+class OCR:
+    def __init__(self):
+        self.data = Aggregated()
+        self.synonyms = Config()['Synonyms']['OCR to Enchant']
 
-def load_image(path:str):
-    return Image.open(path)
+    def load_image(self, path:str):
+        return Image.open(path)
 
-def screenshot():
-    return pyautogui.screenshot()
+    def screenshot(self):
+        return pyautogui.screenshot()
 
-def get_text_from_image(image:Image):
-    return pytesseract.image_to_string(image)
+    def get_text_from_image(self, image:Image):
+        return pytesseract.image_to_string(image)
 
-def load_enchants():
-    with open('enchants.json') as f:
-        enchants = json.load(f)
-    return enchants
+    def get_enchants_from_screenshot(self, warnings:bool = True):
+        return self.get_enchants_from_image(self.screenshot())
 
-def get_enchants_from_screenshot(warnings:bool = True):
-    return get_enchants_from_image(screenshot())
-
-def get_enchants_from_image(image:Image, warnings:bool = True):
-    text = get_text_from_image(image).lower()
-    enchants = load_enchants()
-    ret = {}
-    for gear in enchants:
-        ret[gear] = []
-        for enchant in enchants[gear]:
+    def get_enchants_from_image(self, image:Image, warnings:bool = True):
+        text = self.get_text_from_image(image).lower()
+        enchants = self.data.keys()
+        ret = []
+        for enchant in enchants:
             if enchant[5:45].lower() in text:
-                ret[gear].append(enchant)
+                ret.append(enchant)
+        for synonym in self.synonyms.keys():
+            if synonym in text:
+                ret.append(self.synonym[synonym])
 
-    if warnings:
-        expected = {'helmet': 3, 'gloves': 1, 'boots': 1}
-        for k, v in expected.items():
-            if len(ret[k]) != v:
-                print(f'Expected {v} {k}, got {len(ret[k])}')
+        if warnings:
+            if len(ret) != 5:
+                print(f'Expected 5, got {len(ret)}')
+                print('Try adding a synonym to the config')
+                print(text)
 
-    return ret
+        return ret

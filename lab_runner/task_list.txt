@@ -1,0 +1,15 @@
+- create interface
+    - load data
+    - screen capture
+    - display data
+    - commands (single keystroke): refresh current day/inventory/screen
+        - input for unreadable data?
+- pull official data
+    - count of enchant. % of enchants given active skill
+    - popular bases for the skill, popular bases for the enchant. (top bases, base types)
+    - current league, past league, past league w/ mageblood
+    - premium data (like power/endurance charge notables, enlighten for rmr synergy, etc)
+- pull current inventory
+    - some sort of a coverage metric for gloves and boots
+- create merged data file
+    - creating mismatch dictionary/fuzzy compare

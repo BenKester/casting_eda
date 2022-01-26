@@ -10,6 +10,11 @@ dependencies:
   - requests
   - pip
   - pyyaml
+  - werkzeug
+  - pyreadline # this is windows specific and not required for linux. used with the interface and cmd object.
+  - prettytable
+  - pip:
+    - robobrowser
 
   # image recognition stuff
   - pytesseract
