@@ -14,6 +14,7 @@ dependencies:
   - pyreadline # this is windows specific and not required for linux. used with the interface and cmd object.
   - prettytable
   - pip:
+    - Pillow
     - robobrowser
 
   # image recognition stuff

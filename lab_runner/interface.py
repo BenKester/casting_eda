@@ -27,15 +27,17 @@ class MyCmd(cmd.Cmd):
 
     def do_custom(self, line):
         'custom <enchant>: Prints notes for specific enchant. Supports tab completion.'
-        return self.helper.to_table_str([line,])
+        print(self.helper.to_table_str([line,]))
+        pass
     
-    def complete_custom(self, line):
-        if not line:
+    def complete_custom(self, text, line, begidx, endidx):
+        print(line)
+        if not text:
             return self.helper.get_enchant_list()
         else:
             completions = [ f
                             for f in self.helper.get_enchant_list()
-                            if f.startswith(line)
+                            if f.lower().startswith(text.lower())
                             ]
         return completions
 

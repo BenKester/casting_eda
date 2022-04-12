@@ -16,6 +16,7 @@ class Helper:
     
     def flatten(self, enchant):
         record = self.data[enchant]
+        print(record)
         if type(record['poe trade stats']) is dict:
             stats = record['poe trade stats']
         else:
